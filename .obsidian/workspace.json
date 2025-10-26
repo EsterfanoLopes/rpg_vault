@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YYYY-MM-DD Campaign Session Notes"
+              "title": "DeBlanc"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for YYYY-MM-DD Campaign Session Notes"
+              "title": "Backlinks for DeBlanc"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from YYYY-MM-DD Campaign Session Notes"
+              "title": "Outgoing links from DeBlanc"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of YYYY-MM-DD Campaign Session Notes"
+              "title": "Outline of DeBlanc"
             }
           },
           {
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49288bfe5c61bceb",
+  "active": "4eaf6f9e6aba0c28",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
     "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
     "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
     "(SD) RPG Da Rapaziada/characters/Dariel.md",
     "(SD) RPG Da Rapaziada/characters/Characters.md",

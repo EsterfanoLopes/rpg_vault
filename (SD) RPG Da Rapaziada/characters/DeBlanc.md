@@ -9,7 +9,7 @@
 **Alignment:** Lawful
 **Languages:** Common, Orcish
 
-## Description: 
+## Description
 ```
 Cabelos lisos channel, presas inferiores muito proeminentes. Forte e robusto
 ```
