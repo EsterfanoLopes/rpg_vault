@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/session notes/2025-10-12 Campaign Notes - The story so far.md",
+                "file": "Hamad Camp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-12 Campaign Notes - The story so far"
+              "title": "Hamad Camp"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/session notes/2025-10-12 Campaign Notes - The story so far.md",
+                "file": "Hamad Camp.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-12 Campaign Notes - The story so far"
+              "title": "Outline of Hamad Camp"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 558.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +183,20 @@
   },
   "active": "84f9e3c976cbcd65",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/session notes/2025-10-12 Campaign Notes - The story so far.md",
+    "(SD) RPG Da Rapaziada/locations/The Djurum.md",
+    "Hamad Camp.md",
+    "(SD) RPG Da Rapaziada/locations/The doors.md",
+    "(SD) RPG Da Rapaziada/locations/attachments/Screenshot 2025-10-26 at 17.45.35.png",
+    "(SD) RPG Da Rapaziada/locations/attachments/the-djurum-hex.jpg",
+    "(SD) RPG Da Rapaziada/locations/attachments/Screenshot 2025-10-26 at 17.45.35.jpg",
+    "(SD) RPG Da Rapaziada/factions/Ras-Godai.md",
+    "(SD) RPG Da Rapaziada/factions",
+    "(SD) RPG Da Rapaziada/locations/Example Location.md",
+    "(SD) RPG Da Rapaziada/session notes/2025-11-?? Next Chapter, The Djurum.md",
     "(SD) RPG Da Rapaziada/session notes/YYYY-MM-DD Campaign Session Notes.md",
+    "(SD) RPG Da Rapaziada/session notes/2025-10-12 The story so far.md",
     "(SD) RPG Da Rapaziada/NPCs.md",
     "(SD) RPG Da Rapaziada/locations/The lost citadel of the scarlet minotaur.md",
-    "(SD) RPG Da Rapaziada/locations/Example Location.md",
     "(SD) RPG Da Rapaziada/locations/attachments/taroduns-tomb-patreon.jpg",
     "(SD) RPG Da Rapaziada/characters/Jorge A.md",
     "(SD) RPG Da Rapaziada/characters/Lana.md",
@@ -210,9 +220,6 @@
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/june-index-card-1_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/kraken-holy-city-of-guerras-el-essat_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/web-the-bottomless-tombs-1-patreon_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/church-of-the-huntress-in-umber-patreon_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/warkings-vault-kraken_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/the-beacon-patreon_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails",
     "Externals/SlyFlourish LazyDM/dyson_maps/images",
     "Externals/SlyFlourish LazyDM/dyson_maps/dyson_maps.html",
@@ -222,11 +229,6 @@
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Session Notes",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations/Example Location.md",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations/Attachments",
-    "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations",
-    "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "Obsidian Lazy DM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "Obsidian Lazy DM Campaign Template/Locations/Example Location.md",
-    "Obsidian Lazy DM Campaign Template/NPCs.md",
-    "Obsidian Lazy DM Campaign Template/Characters.md"
+    "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md"
   ]
 }
