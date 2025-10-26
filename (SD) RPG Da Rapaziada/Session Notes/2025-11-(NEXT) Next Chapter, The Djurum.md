@@ -1,6 +1,10 @@
 #template 
 ## Characters
-- 
+- [[Dariel]] - 
+- [[DeBlanc]] - 
+- [[Jorge A]] - 
+- [[Lana]] - 
+- [[Sable]] - 
 ## Strong Start
 [[The Djurum]]
 
