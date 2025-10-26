@@ -1,6 +1,6 @@
 #current #pc
 ## Summary
-**Player:** Rafael
+**Player:** Rafael Cunha
 **Ancestry:** Half-Orc
 **Class:** Paladin (Saint Terragnis)
 **HP:** 13

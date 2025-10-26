@@ -1,3 +1,4 @@
+#template
 # Characters
 
 This page contains notes about the characters. This initial section contains notes about the group. 

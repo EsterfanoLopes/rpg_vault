@@ -1,6 +1,6 @@
 #current #pc
 ## Summary
-**Player:** Guilherme
+**Player:** Guilherme Martins
 **Ancestry:** Human
 **Class:** Priest ()
 **HP:** 15
