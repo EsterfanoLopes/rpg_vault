@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1556f0d41d4739d2",
+        "id": "83765427c4bd4359",
         "type": "tabs",
         "children": [
           {
-            "id": "e853014a6b0c8ed9",
+            "id": "49288bfe5c61bceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,52 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "YYYY-MM-DD Campaign Session Notes"
-            }
-          },
-          {
-            "id": "235b6e81a7bba771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "YYYY-MM-DD Campaign Session Notes"
-            }
-          },
-          {
-            "id": "57a5db7d12050ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "YYYY-MM-DD Campaign Session Notes"
-            }
-          },
-          {
-            "id": "4a21a0abcff9aa0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kawsaskanchis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kawsaskanchis"
+              "title": "Backlinks for YYYY-MM-DD Campaign Session Notes"
             }
           },
           {
@@ -157,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kawsaskanchis"
+              "title": "Outgoing links from YYYY-MM-DD Campaign Session Notes"
             }
           },
           {
@@ -186,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kawsaskanchis"
+              "title": "Outline of YYYY-MM-DD Campaign Session Notes"
             }
           },
           {
@@ -224,15 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa404fa9f230b56b",
+  "active": "49288bfe5c61bceb",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
     "(SD) RPG Da Rapaziada/characters/Dariel.md",
     "(SD) RPG Da Rapaziada/characters/Characters.md",
     "(SD) RPG Da Rapaziada/characters/Sable.md",
-    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
-    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "(SD) RPG Da Rapaziada/NPCs.md",
-    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
     "(SD) RPG Da Rapaziada/characters/Jorge A.md",
     "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
     "(SD) RPG Da Rapaziada/characters/Lana.md",

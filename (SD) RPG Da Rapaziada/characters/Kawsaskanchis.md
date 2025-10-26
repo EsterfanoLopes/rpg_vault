@@ -5,24 +5,19 @@
 **Class:** Wizard
 **Background:** Orphaned
 **Alignment:** Neutral
-**Languages:** Celestial, Common, Draconic, Elvish, Primordial,
+**Languages:** Celestial, Common, Draconic, Elvish, Primordial, Thanian
 
 ## Description: 
 ```
-Pequeno com alguns dentes pontiagudos para fora dos lábios. Em seus pequenos dedos, quase todos possuem aneis de ouro ou prata (falsos ou não). Também, varias correntes dos mesmos metais em seu pescoço.
+Pequeno reptil bipede, com um cajado e um manto
 ```
 
 ## Skills
-- Backstab
-- Thievery, specially lock and unlock doors
-**Martial:**
-- Dagger
-- Crossbow
+**Spell:**
 
 ## Notable Equipment
 - 
 ## Stars and wishes
-- Lost his childhood partner, Kawsaskanchis
-- To bring magic items to the mage so he can be free
+- 
 ## Campfire stories
 - 
