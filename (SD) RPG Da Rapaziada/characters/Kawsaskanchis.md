@@ -2,12 +2,10 @@
 ## Summary
 **Player:** Rafael Cunha
 **Ancestry:** Kobold
-**Class:** Thief
-**HP:** 9
-**Level:** 3
-**Background:** Mercenary
+**Class:** Wizard
+**Background:** Orphaned
 **Alignment:** Neutral
-**Languages:** Common, Draconic
+**Languages:** Celestial, Common, Draconic, Elvish, Primordial,
 
 ## Description: 
 ```
