@@ -1,18 +1,16 @@
 #template 
 ## Characters
-
-- [[Dariel]] 
-- [[DeBlanc]]
-- [[Jorge A]]
-- [[Lana]]
-- [[Sable]]
+- [[Dariel]] - 
+- [[DeBlanc]] - 
+- [[Jorge A]] - 
+- [[Lana]] - 
+- [[Sable]] - 
 - [[Kawsaskanchis]] - Dead by the ettercaps at southwest of Minotaur labirinth. Left there to burn in a fire set by the party.
 
 ## Location
 [[The lost citadel of the scarlet minotaur]]
 
 ## Session Notes
-
 Party arrived as prisioners at the dungeon. They were captured at the near city of ?? and sent to this dungeon. The agreement was to collect valuable magical items in the shadowdark and to bring back them to the city governor ?? in exchange for their liberty.
 
 The party explored the whole dungeon. Confronted ettercaps and beastmans, being more against the ettercaps and somehow more neutral about beastmans. They found the three magical weapons, including the scarlet axe from the Minotaur, which they killed in the last session.
