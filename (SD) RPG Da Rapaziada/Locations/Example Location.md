@@ -1,3 +1,4 @@
+#template 
 # Example Location
 
 ![[(SD) RPG Da Rapaziada/Locations/Attachments/taroduns-tomb-patreon.jpg]]

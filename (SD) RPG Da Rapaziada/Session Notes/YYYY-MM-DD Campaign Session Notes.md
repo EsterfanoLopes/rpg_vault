@@ -1,3 +1,4 @@
+#template 
 # YYYY-MM-DD Campaign Session Notes
 
 ## Characters

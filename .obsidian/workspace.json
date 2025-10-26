@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example Location"
+              "title": "Kawsaskanchis"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Example Location"
+              "title": "Backlinks for Kawsaskanchis"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Example Location"
+              "title": "Outgoing links from Kawsaskanchis"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+                "file": "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Location"
+              "title": "Outline of Kawsaskanchis"
             }
           },
           {
@@ -223,19 +223,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a21a0abcff9aa0f",
+  "active": "65b46d317cdd5400",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/characters/Jorge A.md",
-    "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
-    "(SD) RPG Da Rapaziada/characters/Dariel.md",
+    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
     "(SD) RPG Da Rapaziada/characters/Characters.md",
     "(SD) RPG Da Rapaziada/characters/Sable.md",
-    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "(SD) RPG Da Rapaziada/characters/Dariel.md",
+    "(SD) RPG Da Rapaziada/NPCs.md",
+    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+    "(SD) RPG Da Rapaziada/characters/Jorge A.md",
+    "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
     "(SD) RPG Da Rapaziada/characters/Lana.md",
     "(SD) RPG Da Rapaziada/characters/assets",
     "(SD) RPG Da Rapaziada/characters",
-    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
-    "(SD) RPG Da Rapaziada/NPCs.md",
     "Untitled.canvas",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/NPCs.md",
     "Teste.md",

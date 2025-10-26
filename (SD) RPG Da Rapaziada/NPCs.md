@@ -1,3 +1,4 @@
+#template 
 # NPCs
 
 ## Current NPCs
