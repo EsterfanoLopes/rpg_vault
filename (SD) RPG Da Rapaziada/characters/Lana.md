@@ -9,7 +9,7 @@
 **Alignment:** Neutral
 **Languages:** Common, Orcish
 
-## Description: 
+## Description
 ```
 Longos cabelos pretos amarrados por uma bandana, musculos definidos
 ```

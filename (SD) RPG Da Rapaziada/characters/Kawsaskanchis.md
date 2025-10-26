@@ -7,7 +7,7 @@
 **Alignment:** Neutral
 **Languages:** Celestial, Common, Draconic, Elvish, Primordial, Thanian
 
-## Description: 
+## Description
 ```
 Pequeno reptil bipede, com um cajado e um manto
 ```

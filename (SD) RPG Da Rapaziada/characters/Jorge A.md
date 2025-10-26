@@ -9,7 +9,7 @@
 **Alignment:** Neutral
 **Languages:** Common, Elvish, Sylvan
 
-## Description: 
+## Description
 ```
 Longos cabelos loiros, corpo esguio e ágil
 ```
@@ -23,6 +23,7 @@ Longos cabelos loiros, corpo esguio e ágil
 ## Notable Equipment
 - Bronze Dagger +1
 ## Stars and wishes
+- Were possessed by a ghost in the labyrinth, southwest of the labyrinth.
 - To bring magic items to the mage so he can be free
 ## Campfire stories
 - 

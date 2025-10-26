@@ -11,10 +11,10 @@
             "id": "84f9e3c976cbcd65",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of YYYY-MM-DD Campaign Session Notes"
+              "title": "Outline"
             }
           },
           {
@@ -176,22 +175,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3298d489ea321b01",
+  "active": "84f9e3c976cbcd65",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
-    "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
-    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
-    "(SD) RPG Da Rapaziada/characters/Dariel.md",
-    "(SD) RPG Da Rapaziada/characters/Characters.md",
-    "(SD) RPG Da Rapaziada/characters/Sable.md",
+    "(SD) RPG Da Rapaziada/session notes/2025-10-12 Campaign Notes - The story so far.md",
+    "(SD) RPG Da Rapaziada/session notes/YYYY-MM-DD Campaign Session Notes.md",
     "(SD) RPG Da Rapaziada/NPCs.md",
+    "(SD) RPG Da Rapaziada/locations/The lost citadel of the scarlet minotaur.md",
+    "(SD) RPG Da Rapaziada/locations/Example Location.md",
+    "(SD) RPG Da Rapaziada/locations/attachments/taroduns-tomb-patreon.jpg",
     "(SD) RPG Da Rapaziada/characters/Jorge A.md",
     "(SD) RPG Da Rapaziada/characters/Lana.md",
+    "(SD) RPG Da Rapaziada/characters/Sable.md",
+    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
+    "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
+    "(SD) RPG Da Rapaziada/characters/Dariel.md",
+    "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Characters.md",
+    "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/NPCs.md",
+    "(SD) RPG Da Rapaziada/characters/Characters.md",
     "(SD) RPG Da Rapaziada/characters/assets",
     "(SD) RPG Da Rapaziada/characters",
     "Untitled.canvas",
-    "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/NPCs.md",
     "Teste.md",
     "(SD) Joguinhos do ProxFDS/Characters.md",
     "(SD) Joguinhos do ProxFDS/NPCs.md",
@@ -205,7 +208,6 @@
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/church-of-the-huntress-in-umber-patreon_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/warkings-vault-kraken_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/the-beacon-patreon_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/mirelyns-skyrealm-bw-final-patreon_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails",
     "Externals/SlyFlourish LazyDM/dyson_maps/images",
     "Externals/SlyFlourish LazyDM/dyson_maps/dyson_maps.html",
@@ -216,7 +218,6 @@
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations/Example Location.md",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations/Attachments",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations",
-    "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Characters.md",
     "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Obsidian Lazy DM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Obsidian Lazy DM Campaign Template/Locations/Example Location.md",

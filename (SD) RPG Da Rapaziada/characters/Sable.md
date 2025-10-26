@@ -9,7 +9,7 @@
 **Alignment:** Neutral
 **Languages:** Common, Draconic
 
-## Description: 
+## Description
 ```
 Pequeno com alguns dentes pontiagudos para fora dos lábios. Em seus pequenos dedos, quase todos possuem aneis de ouro ou prata (falsos ou não). Também, varias correntes dos mesmos metais em seu pescoço.
 ```

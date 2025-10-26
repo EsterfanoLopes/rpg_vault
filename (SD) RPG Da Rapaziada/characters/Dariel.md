@@ -9,7 +9,7 @@
 **Alignment:** Lawful
 **Languages:** Common, Diabolic, Merran
 
-## Description: 
+## Description
 ```
 Humano, 170cm bem magro, com roupas pequenas e apertadas, com uma armadura de couro, cabelo liso desgrenhado, cabelo e olhos pretos.
 ```
@@ -20,6 +20,7 @@ Humano, 170cm bem magro, com roupas pequenas e apertadas, com uma armadura de co
 
 ## Notable Equipment
 - Want of Blind / Deafen
+- Scarrel Mithral Shield
 
 ## Stars and wishes
 - Bring magical items back so they can be declared free from the mage
