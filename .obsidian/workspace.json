@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#current",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,13 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b46d317cdd5400",
+  "active": "aa404fa9f230b56b",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
+    "(SD) RPG Da Rapaziada/characters/Dariel.md",
     "(SD) RPG Da Rapaziada/characters/Characters.md",
     "(SD) RPG Da Rapaziada/characters/Sable.md",
-    "(SD) RPG Da Rapaziada/characters/Dariel.md",
+    "(SD) RPG Da Rapaziada/characters/Kawsaskanchis.md",
+    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "(SD) RPG Da Rapaziada/NPCs.md",
     "(SD) RPG Da Rapaziada/Locations/Example Location.md",
     "(SD) RPG Da Rapaziada/characters/Jorge A.md",
