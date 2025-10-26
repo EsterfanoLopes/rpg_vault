@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "YYYY-MM-DD Campaign Session Notes"
             }
+          },
+          {
+            "id": "235b6e81a7bba771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YYYY-MM-DD Campaign Session Notes"
+            }
+          },
+          {
+            "id": "57a5db7d12050ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lana"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "Lana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for YYYY-MM-DD Campaign Session Notes"
+              "title": "Backlinks for Lana"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "Lana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from YYYY-MM-DD Campaign Session Notes"
+              "title": "Outgoing links from Lana"
             }
           },
           {
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "file": "Lana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of YYYY-MM-DD Campaign Session Notes"
+              "title": "Outline of Lana"
             }
           },
           {
@@ -180,10 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e853014a6b0c8ed9",
+  "active": "57a5db7d12050ae0",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/Characters.md",
     "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "Lana.md",
+    "(SD) RPG Da Rapaziada/characters/Jorge A.md",
+    "(SD) RPG Da Rapaziada/characters/DeBlanc.md",
+    "(SD) RPG Da Rapaziada/characters/Characters.md",
+    "(SD) RPG Da Rapaziada/characters/Dariel.md",
+    "(SD) RPG Da Rapaziada/characters/assets",
+    "(SD) RPG Da Rapaziada/characters",
     "(SD) RPG Da Rapaziada/Locations/Example Location.md",
     "(SD) RPG Da Rapaziada/NPCs.md",
     "Untitled.canvas",
@@ -213,8 +248,6 @@
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations/Attachments",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Locations",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Characters.md",
-    "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template",
-    "Externals/SlyFlourish LazyDM",
     "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Obsidian Lazy DM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Obsidian Lazy DM Campaign Template/Locations/Example Location.md",

@@ -2,7 +2,12 @@
 
 ## Characters
 
-- [[]]
+- [[Dariel]]
+- [[DeBlanc]]
+- [[Jorge A]]
+- [[Lana]]
+- [[Sable]]
+- [[Kawsaskanchis]]
 
 ## Strong Start
 
