@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ad89b99d20fb63",
+        "id": "1556f0d41d4739d2",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a3f4c125b8385d",
+            "id": "e853014a6b0c8ed9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "YYYY-MM-DD Campaign Session Notes"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for YYYY-MM-DD Campaign Session Notes"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from YYYY-MM-DD Campaign Session Notes"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of YYYY-MM-DD Campaign Session Notes"
             }
           },
           {
@@ -173,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4a3f4c125b8385d",
+  "active": "e853014a6b0c8ed9",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/Characters.md",
+    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
+    "(SD) RPG Da Rapaziada/NPCs.md",
     "Untitled.canvas",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/NPCs.md",
     "Teste.md",
@@ -204,10 +215,6 @@
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template/Characters.md",
     "Externals/SlyFlourish LazyDM/Obsidian Lazy DM Campaign Template",
     "Externals/SlyFlourish LazyDM",
-    "(SD) RPG Da Rapaziada/Locations/Example Location.md",
-    "(SD) RPG Da Rapaziada/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "(SD) RPG Da Rapaziada/NPCs.md",
-    "(SD) RPG Da Rapaziada/Characters.md",
     "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Obsidian Lazy DM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Obsidian Lazy DM Campaign Template/Locations/Example Location.md",

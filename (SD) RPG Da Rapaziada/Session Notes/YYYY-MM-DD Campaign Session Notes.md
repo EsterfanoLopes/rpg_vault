@@ -2,7 +2,7 @@
 
 ## Characters
 
-- 
+- [[]]
 
 ## Strong Start
 
