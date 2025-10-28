@@ -11,14 +11,14 @@
             "id": "84f9e3c976cbcd65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/session notes/2025-11-(NEXT) Next Chapter, The Djurum.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-11-(NEXT) Next Chapter, The Djurum"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/session notes/2025-11-(NEXT) Next Chapter, The Djurum.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-(NEXT) Next Chapter, The Djurum"
+              "title": "Outline"
             }
           },
           {
@@ -166,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,13 +181,13 @@
   },
   "active": "84f9e3c976cbcd65",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/session notes/2025-10-12 The story so far.md",
+    "(SD) RPG Da Rapaziada/locations/attachments/the-djurum-hex.jpg",
     "(SD) RPG Da Rapaziada/session notes/2025-11-(NEXT) Next Chapter, The Djurum.md",
+    "(SD) RPG Da Rapaziada/session notes/2025-10-12 The story so far.md",
     "(SD) RPG Da Rapaziada/locations/Hamad Camp.md",
     "(SD) RPG Da Rapaziada/locations/The Djurum.md",
     "(SD) RPG Da Rapaziada/locations/The lost citadel of the scarlet minotaur.md",
     "(SD) RPG Da Rapaziada/locations/attachments/taroduns-tomb-patreon.jpg",
-    "(SD) RPG Da Rapaziada/locations/attachments/the-djurum-hex.jpg",
     "(SD) RPG Da Rapaziada/locations/Example Location.md",
     "(SD) RPG Da Rapaziada/locations/The doors.md",
     "(SD) RPG Da Rapaziada/locations/attachments/Screenshot 2025-10-26 at 17.45.35.png",
