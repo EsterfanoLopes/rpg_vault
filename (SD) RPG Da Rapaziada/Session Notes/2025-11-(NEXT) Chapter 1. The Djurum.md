@@ -7,8 +7,7 @@
 - [[Sable]] - Kobold Thief in search of richness
 - [[Kawsaskanchis]] - Kobold Wizard. Dead by the ettercaps at southwest of Minotaur labirinth. Left there to burn in a fire set by the party.
 ## Strong Start
-The reveal of [[The Djurum]]
-
+The reveal of [[The Djurum]].
 ## Scenes
 - The doors opens to the [[Hamad Camp]]
 - Time skip. 1 Month:
@@ -26,7 +25,7 @@ The reveal of [[The Djurum]]
 - [ ] [[The Hamad Tribe]] comes from afar escaping from [[The Scourge]], a giant flying Wyrm that took their promised land in the Red Mountains and killed most of it's might people
 - [ ] The tribe has a course that since they arrived and built settlement, no woman were able to becom pregnant. [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] cursed the tribe.
 - [ ] Someone in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
-- [ ] 
+- [ ] The water that [[Hamad Camp]] uses comes from the same source of the bath from inside the [[The lost citadel of the scarlet minotaur]]
 ## Fantastic Locations
 - [[Saltstone Tower]]
 - The salt flats
