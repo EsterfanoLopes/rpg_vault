@@ -1,0 +1,37 @@
+#template 
+## Characters
+- [[Dariel]] - Human Priest
+- [[DeBlanc]] - Half Orc Paladin with an oath for truth
+- [[Jorge A]] - Elf Warrior
+- [[Lana]] - Half Orc warrior in search of her brother
+- [[Sable]] - Kobold Thief in search of richness
+- [[Kawsaskanchis]] - Kobold Wizard. Dead by the ettercaps at southwest of Minotaur labirinth. Left there to burn in a fire set by the party.
+## Strong Start
+The reveal of [[The Djurum]]
+
+## Scenes
+- The doors opens to the [[Hamad Camp]]
+- Time skip. 1 Month:
+	- Get to know obvious truths of [[The Djurum]].
+	- Get to know main NPCs
+- Build new characters (followers from [[The Hamad Tribe]])
+- Head to HEX Exploration - define which quest line to follow
+## Secrets and Clues
+- [ ] The prophecy that in the promissed land a group of might heroes would come to save Hamad people
+- [ ] [[Omid of the Hammad Tribe]] had never come back from his incursion to the Salt flats one week ago
+- [ ] [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] has captured his eldest son, [[Omid of the Hammad Tribe]]
+- [ ] [[Delila of the Hamad Tribe]] believes that the desert is harsh and many of the [[The Hamad Tribe]] had been lost in the peregrination
+- [ ] [[Delila of the Hamad Tribe]] believes that the party is the heroes from the prophecy
+- [ ] [[Murjana of the Hamad Tribe]] is not quite sure that the prophecy is fulfilled yet, neither that the party is their saviour
+- [ ] [[The Hamad Tribe]] comes from afar escaping from [[The Scourge]], a giant flying Wyrm that took their promised land in the Red Mountains and killed most of it's might people
+- [ ] The tribe has a course that since they arrived and built settlement, no woman were able to becom pregnant. [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] cursed the tribe.
+- [ ] Someone in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
+- [ ] 
+## Fantastic Locations
+- [[Saltstone Tower]]
+- The salt flats
+## Notable NPCs
+- [[Murjana of the Hamad Tribe]]
+- [[Delila of the Hamad Tribe]]
+## Session Notes
+- 

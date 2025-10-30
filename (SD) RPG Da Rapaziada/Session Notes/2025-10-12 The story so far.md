@@ -1,11 +1,11 @@
 #template 
 ## Characters
-- [[Dariel]] - 
-- [[DeBlanc]] - 
-- [[Jorge A]] - 
-- [[Lana]] - 
-- [[Sable]] - 
-- [[Kawsaskanchis]] - Dead by the ettercaps at southwest of Minotaur labirinth. Left there to burn in a fire set by the party.
+- [[Dariel]] - Human Priest
+- [[DeBlanc]] - Half Orc Paladin with an oath for truth
+- [[Jorge A]] - Elf Warrior
+- [[Lana]] - Half Orc warrior in search of her brother
+- [[Sable]] - Kobold Thief in search of richness
+- [[Kawsaskanchis]] - Kobold Wizard. Dead by the ettercaps at southwest of Minotaur labirinth. Left there to burn in a fire set by the party.
 
 ## Location
 [[The lost citadel of the scarlet minotaur]]
