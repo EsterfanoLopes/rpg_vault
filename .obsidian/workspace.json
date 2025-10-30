@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20923804bf2ac7fc",
+        "id": "12c8d573d7e293b9",
         "type": "tabs",
         "children": [
           {
-            "id": "c5bd2fe42c1ca3cd",
+            "id": "727cea83df94f909",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "(SD) RPG Da Rapaziada/session notes/Plot Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Plot Ideas"
             }
           }
         ]
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5bd2fe42c1ca3cd",
+  "active": "727cea83df94f909",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/NPCs.md",
+    "(SD) RPG Da Rapaziada/session notes/Plot Ideas.md",
     "(SD) RPG Da Rapaziada/locations/attachments/the-djurum-hex.jpg",
     "(SD) RPG Da Rapaziada/session notes/2025-11-(NEXT) Next Chapter, The Djurum.md",
     "(SD) RPG Da Rapaziada/session notes/2025-10-12 The story so far.md",
@@ -195,7 +197,6 @@
     "(SD) RPG Da Rapaziada/factions/Ras-Godai.md",
     "(SD) RPG Da Rapaziada/factions",
     "(SD) RPG Da Rapaziada/session notes/YYYY-MM-DD Campaign Session Notes.md",
-    "(SD) RPG Da Rapaziada/NPCs.md",
     "(SD) RPG Da Rapaziada/characters/Jorge A.md",
     "(SD) RPG Da Rapaziada/characters/Lana.md",
     "(SD) RPG Da Rapaziada/characters/Sable.md",
