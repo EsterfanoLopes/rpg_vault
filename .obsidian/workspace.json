@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34b26aa43fc89081",
+        "id": "20923804bf2ac7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "84f9e3c976cbcd65",
+            "id": "c5bd2fe42c1ca3cd",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84f9e3c976cbcd65",
+  "active": "c5bd2fe42c1ca3cd",
   "lastOpenFiles": [
     "(SD) RPG Da Rapaziada/locations/attachments/the-djurum-hex.jpg",
     "(SD) RPG Da Rapaziada/session notes/2025-11-(NEXT) Next Chapter, The Djurum.md",
