@@ -1,4 +1,0 @@
-- The people on Red Sands were expecting them. They have a hope profecy, where this group would save them from the terror of the scourge and return then to their home.
-- The profecy, though, describe something not so direct as then, but that could fit them into it. e.G: A might dragon, with jewels and a shadow as a cape [[Sable]].
-- The profecy also describes something to [[Kawsaskanchis]], in which is not there.
-- The medal that Lana received from [[Kawsaskanchis]] was actually to [[Sable]]. Next Strong start be [[Kawsaskanchis]] telling [[Sable]] that.

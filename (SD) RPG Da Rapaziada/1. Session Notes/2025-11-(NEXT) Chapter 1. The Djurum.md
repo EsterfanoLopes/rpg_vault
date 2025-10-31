@@ -1,7 +1,7 @@
 #template 
 
 ## TODO
-- [ ] Guide to build new characters
+- [ ] Guide to build new characters (Use SD template)
 - [ ] Guide to what is available in [[Hamad Camp]]
 - [ ] Define Hex Exploration Rules
 ## Characters
@@ -12,7 +12,8 @@
 - [[Sable]] - Kobold Thief in search of richness
 - [[Kawsaskanchis]] - Kobold Wizard. Dead by the ettercaps at southwest of Minotaur labirinth. Left there to burn in a fire set by the party.
 ## Strong Start
-The reveal of [[The Djurum]].
+- The reveal of [[The Djurum]]
+- The medal that Lana received from [[Kawsaskanchis]] was actually to [[Sable]]. Next Strong start be [[Kawsaskanchis]] telling [[Sable]] that
 ## Scenes
 - The doors opens to the [[Hamad Camp]]
 - Time skip. 1 Month:

@@ -1,7 +1,7 @@
 #template 
 # Example Location
 
-![[(SD) RPG Da Rapaziada/locations/attachments/taroduns-tomb-patreon.jpg]]
+![[(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg]]
 
 Include both a marked up and blank version of the map.
 
