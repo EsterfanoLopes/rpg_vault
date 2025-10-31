@@ -1,4 +1,4 @@
-#current #pc
+#pc #current
 ## Summary
 **Player:** Rafael Cunha
 **Ancestry:** Half-Orc

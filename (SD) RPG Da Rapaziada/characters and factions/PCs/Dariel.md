@@ -1,4 +1,4 @@
-#current #pc
+#pc #current
 ## Summary
 **Player:** Guilherme Martins
 **Ancestry:** Human

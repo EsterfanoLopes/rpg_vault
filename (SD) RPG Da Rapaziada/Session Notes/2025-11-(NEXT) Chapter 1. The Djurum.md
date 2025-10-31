@@ -1,4 +1,9 @@
 #template 
+
+## TODO
+- [ ] Guide to build new characters
+- [ ] Guide to what is available in [[Hamad Camp]]
+- [ ] Define Hex Exploration Rules
 ## Characters
 - [[Dariel]] - Human Priest
 - [[DeBlanc]] - Half Orc Paladin with an oath for truth
@@ -33,4 +38,4 @@ The reveal of [[The Djurum]].
 - [[Murjana of the Hamad Tribe]]
 - [[Delila of the Hamad Tribe]]
 ## Session Notes
-- 
+-

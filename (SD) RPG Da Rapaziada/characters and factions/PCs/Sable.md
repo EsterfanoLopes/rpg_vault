@@ -1,4 +1,4 @@
-#current #pc
+#pc #current
 ## Summary
 **Player:** Eduardo Matiola
 **Ancestry:** Kobold

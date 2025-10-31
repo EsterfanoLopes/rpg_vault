@@ -1,4 +1,4 @@
-#npc #current 
+#npc 
 **Ancestry:** Human
 **Description:** Spiritual leader of [[The Hamad Tribe]]. Tall with a long hair. Brown and unccommon smoth skin to the desert standards.
 **Faction:** [[The Hamad Tribe]]

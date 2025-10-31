@@ -1,4 +1,4 @@
-#npc #current
+#npc
 **Ancestry:** Human
 **Description:** Militar leader of [[The Hamad Tribe]]. Small and strong, very agile and with a big scar on the left side of her face. She misses the left ear.
 **Faction:** [[The Hamad Tribe]]
