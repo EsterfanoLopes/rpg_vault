@@ -1,0 +1,2 @@
+Limpar Gordura
+Lavar Roupa
