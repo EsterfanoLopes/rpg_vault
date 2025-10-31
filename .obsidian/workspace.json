@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "YYYY-MM-DD Campaign Session Notes"
             }
+          },
+          {
+            "id": "c20f2f71c558f298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -278,8 +292,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a479bd78f23701",
+  "active": "c20f2f71c558f298",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/session notes/YYYY-MM-DD Campaign Session Notes.md",
+    "Untitled.md",
     "(SD) RPG Da Rapaziada/Profecia dos Hamad.md",
     "(SD) RPG Da Rapaziada/locations/The lost citadel of the scarlet minotaur.md",
     "(SD) RPG Da Rapaziada/locations/The Djurum.md",
@@ -294,7 +310,6 @@
     "(SD) RPG Da Rapaziada/characters and factions/NPCs/Murjana of the Hamad Tribe.md",
     "(SD) RPG Da Rapaziada/characters and factions/NPCs/Delila of the Hamad Tribe.md",
     "(SD) RPG Da Rapaziada/characters and factions/NPCs/The Wolf of Yarin.md",
-    "(SD) RPG Da Rapaziada/session notes/YYYY-MM-DD Campaign Session Notes.md",
     "(SD) RPG Da Rapaziada/characters and factions/NPCs/NPCs.md",
     "(SD) RPG Da Rapaziada/characters and factions/NPCs/Omid of the Hammad Tribe.md",
     "(SD) RPG Da Rapaziada/characters and factions/NPCs/The Scourge.md",
@@ -314,7 +329,6 @@
     "(SD) RPG Da Rapaziada/characters and factions/PCs/Jorge A.md",
     "(SD) RPG Da Rapaziada/characters and factions/PCs/Lana.md",
     "(SD) RPG Da Rapaziada/characters and factions/PCs/Sable.md",
-    "(SD) RPG Da Rapaziada/characters and factions/PCs/Kawsaskanchis.md",
     "(SD) RPG Da Rapaziada/characters/assets",
     "(SD) RPG Da Rapaziada/characters and factions",
     "Untitled.canvas",
