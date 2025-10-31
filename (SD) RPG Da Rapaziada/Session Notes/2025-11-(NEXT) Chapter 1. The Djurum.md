@@ -28,9 +28,9 @@ The reveal of [[The Djurum]].
 - [ ] [[Delila of the Hamad Tribe]] believes that the party is the heroes from the prophecy
 - [ ] [[Murjana of the Hamad Tribe]] is not quite sure that the prophecy is fulfilled yet, neither that the party is their saviour
 - [ ] [[The Hamad Tribe]] comes from afar escaping from [[The Scourge]], a giant flying Wyrm that took their promised land in the Red Mountains and killed most of it's might people
-- [ ] The tribe has a course that since they arrived and built settlement, no woman were able to becom pregnant. [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] cursed the tribe.
-- [ ] Someone in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
-- [ ] The water that [[Hamad Camp]] uses comes from the same source of the bath from inside the [[The lost citadel of the scarlet minotaur]]
+- [ ] The tribe has a course that since they arrived and built settlement, all inhabitants have bad luck in anything they try and no woman are being successful in becoming pregnant. [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] cursed the tribe.
+- [ ] [[Arlomas of the Silent Mountain]] in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
+- [ ] [[Remy the merchant]] is preparing an incursion for trading goods in [[Alkesh]] to depart in one month
 ## Fantastic Locations
 - [[Saltstone Tower]]
 - The salt flats
