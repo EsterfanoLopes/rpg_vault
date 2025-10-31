@@ -5,5 +5,11 @@ The Djurun Hex 310
 https://dysonlogos.blog/wp-content/uploads/2024/07/chain-tower-nogrid.png
 
 
+## Info
+A lonely, salt-encrusted tower of grey stone thrusts like a needle out of the empty mineral flats.
 
-Lair of [[The Wolf of Yarin]] 
+## Inhabitants
+- Lair of [[The Wolf of Yarin]] 
+- Tajora, a purple worm pet to [[The Wolf of Yarin]]
+## Random Encounters
+1. TODO
