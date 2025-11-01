@@ -2,6 +2,27 @@
 Hexes are 6-miles across. The PCs can enter a number of hexes per day based on travel method.
 
 ## Procedure
+1. [Roll for weather](#Weather)
+	1. Wind
+	2. Temperature
+2. [Journey](#journey)
+	1. Define Navigator,
+	2. Define direction or destiny
+	3. Navigation Test
+3. [Pace](#Pace)
+	1. Travel Method
+	2. Calculate Travel Hex Credits
+	3. Pushing
+4. [Activities](#activities)
+	1. Check if any player want to execute a role action
+5. [Encounter](#encounter)
+	1. Check Twice in morning, Twice at night
+	2. When triggered:
+		1. Change to crowling rounds
+		2. Determine Distance, activity and morale check
+6. [Wrapup](#wrapup)
+	1. Food and Drink
+
 
 ### Weather
 Roll d6 for wind
@@ -16,9 +37,7 @@ Roll d6 for wind
 - **Horrible**: Terrain increases cross difficult. (Normal becomes Difficult, Difficult becomes Impossible). 
 	- 3:6 **Sandstorm**: Lasts 1d4 (don't reroll for weather). Reduces visibility to near
 - **Good**: Weather is excellent. Roll next weather with ADV and not Temperature roll
-
 ---
-
 if not Good, roll 2d6 for Temperature
 
 | 2d6   | Day       | Night     |
@@ -30,35 +49,33 @@ if not Good, roll 2d6 for Temperature
 | 12    | Cool      | Chilly    |
 **Hot**: Travelling creatures requires one extra ration per day
 **Inferno**: Traveling creatures requires one extra ration per day
+### Journey
+Choose a navigator, which will define the destiny and trace the route. If the navigator is not familiar with the region, is not following an obvious guide, like an river or a road, then a Navigation test is necessary. For that, test INT wit difficulty Hard (CD 15), or Extreme in case of a Sandstorm (CD 18). If fails, roll in the table below and move to the selected direction.
 
-1. [Roll for weather](#Weather)
-	1. Wind
-	2. Temperature
-2. Define direction or destiny (Journey)
-	1. Choose a navigator
-	2. Navigator tests INT (Not necessary in an obvious guide as following a road or a river)
-		1. Hard difficult (DC 15) or Extreme in a sandstorm (DC 18)
-		2. On a failure, move to an adjacent HEX (determines by d2 {1:left, 2: right})
-3. Define Pace
-	1. Travel Method
-	2. Difficult terrain? requires 2 Hexes to enter
-	3. Pushing?
-		1. +50% additional to speed.
-		2. Increase random encounter chance +1
-		3. Not possible to forage
-4. Check for Random Encounter 2x Morning, 2x Night (total 4).
-	1. Roll d12 to determine what time of day or night it happens.
-	2. Morning: 2:6 (Pushing add +1)
-	3. Night: 2:6 (Pushing add +1)
-	4. Encounter? Change for crawling rounds (SD 112)
-		1. Distance. d6 (1: Close, 2-4: Near, 5-6: Far)
-		2. Activity. 2d6 (2-4: Hunting, 5-6: Eating, 7-8: Building / Nesting, 9-10: Socialising / Playing, 11: Guarding, 12: Sleeping)
-5. Food and Water
-	1. Roll for Forage
-		1. 1x day per character (except the character who is navigating).
-		2. Difficulty: Hard (DC 18)
-	2. PCs can go three days without consuming ration
-	3. 1d4 CON damage / day after that (death at 0)
+| Failed Navigation d3 | location |
+| -------------------- | -------- |
+| 1                    | Left     |
+| 2                    | Target   |
+| 3                    | Right    |
+
+### Pace
+The navigator must decide the travel method and pace. In the method, the way of transport should be chosen. By foot, by mount or vehicle. Then, check if it should push. When pushing, +50% additional speed, but the random encounter chance increases in one and it is not possible to execute any of the additional party roles, as foraging, per example.
+Then it is calculated how much Hexes the party has as credit. Then, for each joined hex, one is removed from the credit, or 2 in case of Difficulty terrain.
+### Activities
+In activities, rolls related to other party roles happens.
+Each character can assume one role. Multiple characters can assume the same role, except the Navigator role.
+
+#### Forager
+Foragers can roll once per day to check if they find food and water. A success roll means that the forager found enough food and water to count as a ration per day. For that, check INT versus the difficulty per terrain. Desert CD 18
+### Encounter
+Check for encounter twice at morning and twice at the night. When pushing, add +1 to the chances of encounter.
+When there is an encounter, roll d12 to determine the Hour. Then change to crowling rounds (SD 112).
+- Check Distance
+- Check Activity
+- Moral test
+
+### Wrapup
+PCs can live without rations for 3 days in a row. After that, damage 1d4 CON per day (Death at 0). When a ration is consumed from that, one last day is removed from the row, which means that it needs to eat food for 3 days in a row to reset the counter.
 
 ## Source
 ![[CS4-hex-crawl-rules.png]]![[CS2-travels-in-the-sands.png]]
