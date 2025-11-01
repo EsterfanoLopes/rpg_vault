@@ -1,8 +1,8 @@
 #template 
 
 ## TODO
-- [ ] Guide to build new characters (Use SD template)
-- [ ] Guide to what is available in [[Hamad Camp]]
+- [x] Guide to build new characters (Use SD template)
+- [x] Guide to what is available in [[Hamad Camp]]
 - [ ] Define Hex Exploration Rules
 ## Characters
 - [[Dariel]] - Human Priest
@@ -19,6 +19,13 @@
 - Time skip. 1 Month:
 	- Get to know obvious truths of [[The Djurum]]. ![[The Djurum Desert Campaign Intro.pdf]]
 	- Get to know main NPCs
+		- Shop. Anything from the basic buy on SD, except items that requires expensive tools (heavy armor, reeally exotic weapons, et cetera).
+	- Downtime Activities
+		- Two options.
+		- Carousing (SD pg 92) Limited to 300gp
+		- Pit Fight (CS 2 pg 20) Limited to Low Stakes
+		- Train one random poison with [[Yogg Zar of The Sillent Mountains]]
+		- Train Mounting Scrag with [[Arlomas of the Salt Lands]]
 - Build new characters (followers from [[The Hamad Tribe]])
 - Head to HEX Exploration - define which quest line to follow
 ## Secrets and Clues
@@ -30,7 +37,7 @@
 - [ ] [[Murjana of the Hamad Tribe]] is not quite sure that the prophecy is fulfilled yet, neither that the party is their saviour
 - [ ] [[The Hamad Tribe]] comes from afar escaping from [[The Scourge]], a giant flying Wyrm that took their promised land in the Red Mountains and killed most of it's might people
 - [ ] The tribe has a course that since they arrived and built settlement, all inhabitants have bad luck in anything they try and no woman are being successful in becoming pregnant. [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] cursed the tribe.
-- [ ] [[Arlomas of the Silent Mountain]] in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
+- [ ] [[Arlomas of the Salt Lands]] in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
 - [ ] [[Remy the merchant]] is preparing an incursion for trading goods in [[Alkesh]] to depart in one month
 ## Fantastic Locations
 - [[Saltstone Tower]]
