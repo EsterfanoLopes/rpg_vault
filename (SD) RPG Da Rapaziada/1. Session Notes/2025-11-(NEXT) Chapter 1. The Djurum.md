@@ -17,7 +17,7 @@
 ## Scenes
 - The doors opens to the [[Hamad Camp]]
 - Time skip. 1 Month:
-	- Get to know obvious truths of [[The Djurum]].
+	- Get to know obvious truths of [[The Djurum]]. ![[The Djurum Desert Campaign Intro.pdf]]
 	- Get to know main NPCs
 - Build new characters (followers from [[The Hamad Tribe]])
 - Head to HEX Exploration - define which quest line to follow
