@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8414faa9320b7cfe",
+        "id": "01093a4aae8d2dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc148ca853d1b96",
+            "id": "558a46bf4c698fa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcc148ca853d1b96",
+  "active": "558a46bf4c698fa7",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-(NEXT) Chapter 1. The Djurum.md",
+    "(SD) RPG Da Rapaziada/2. Locations/The lost citadel of the scarlet minotaur.md",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/the-djurum-hex.jpg",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS2-travels-in-the-sands.png",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
     "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
+    "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-(NEXT) Chapter 1. The Djurum.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
@@ -208,10 +214,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Jorge A.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/DeBlanc.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Dariel.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Scourge.md",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/the-djurum-hex.jpg",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs",
@@ -225,8 +227,6 @@
     "(SD) Joguinhos do ProxFDS/attachments/bailon_the_beardless.png.png",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/five-room-v-shaped_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/september-dungeon-understructures_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/june-index-card-1_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/kraken-holy-city-of-guerras-el-essat_thumbnail.jpg",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails"
   ]
 }
