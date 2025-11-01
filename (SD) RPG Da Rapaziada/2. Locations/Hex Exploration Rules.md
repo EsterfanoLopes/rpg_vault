@@ -2,16 +2,38 @@
 Hexes are 6-miles across. The PCs can enter a number of hexes per day based on travel method.
 
 ## Procedure
-1. Roll for weather
-	1. Wind. d6
-		1. 1:6 weather is **horrible**. Everything on **Bad**, plus:
-			1. Normal terrain becomes difficult. Difficult becomes impassible.
-			2. Navigation checks becomes one level harder than normal.
-			3. 3:6: **Sandstorm**. Lasts 1d4 days (don't reroll for weather). Reduces visibility to Near
-		2. 6:6 weather is excellent. Roll next weather with ADV. No Temperature roll
-	2. Temperature. 2d6
-		1. Hot: traveling creatures requires one extra ration per day
-		2. Inferno: traveling creatures must take 1d4 damage each hour
+
+### Weather
+Roll d6 for wind
+
+| d6    | Wind                     |
+| ----- | ------------------------ |
+| 1     | **Horrible**(*Sandstorm) |
+| (3:6) | *Sandstorm               |
+| 2-5   | **Normal**               |
+| 6     | **Good**                 |
+
+- **Horrible**: Terrain increases cross difficult. (Normal becomes Difficult, Difficult becomes Impossible). 
+	- 3:6 **Sandstorm**: Lasts 1d4 (don't reroll for weather). Reduces visibility to near
+- **Good**: Weather is excellent. Roll next weather with ADV and not Temperature roll
+
+---
+
+if not Good, roll 2d6 for Temperature
+
+| 2d6   | Day       | Night     |
+| ----- | --------- | --------- |
+| 2     | Inferno   | Very Hot* |
+| 3-7   | Very hot* | Hot*      |
+| 8-9   | Hot*      | Warm      |
+| 10-11 | Warm      | Cool      |
+| 12    | Cool      | Chilly    |
+**Hot**: Travelling creatures requires one extra ration per day
+**Inferno**: Traveling creatures requires one extra ration per day
+
+1. [Roll for weather](#Weather)
+	1. Wind
+	2. Temperature
 2. Define direction or destiny (Journey)
 	1. Choose a navigator
 	2. Navigator tests INT (Not necessary in an obvious guide as following a road or a river)
