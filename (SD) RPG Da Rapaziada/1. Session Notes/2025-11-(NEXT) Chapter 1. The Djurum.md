@@ -17,6 +17,7 @@
 ## Scenes
 - The doors opens to the [[Hamad Camp]]
 - Time skip. 1 Month:
+	- https://homebrewery.naturalcrit.com/share/X7xRB8zld1nN
 	- Get to know obvious truths of [[The Djurum]]. ![[The Djurum Desert Campaign Intro.pdf]]
 	- Get to know main NPCs
 		- Shop. Anything from the basic buy on SD, except items that requires expensive tools (heavy armor, reeally exotic weapons, et cetera).
