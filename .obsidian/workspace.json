@@ -11,12 +11,14 @@
             "id": "da98a9e1677e9271",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png"
+                "file": "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-(NEXT) Chapter 1. The Djurum.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "CS4-hex-crawl-rules"
+              "icon": "lucide-file",
+              "title": "2025-11-(NEXT) Chapter 1. The Djurum"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
+                "file": "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-(NEXT) Chapter 1. The Djurum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CS4-hex-crawl-rules"
+              "title": "Backlinks for 2025-11-(NEXT) Chapter 1. The Djurum"
             }
           },
           {
@@ -177,17 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3298d489ea321b01",
+  "active": "da98a9e1677e9271",
   "lastOpenFiles": [
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-10-12 The story so far.md",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS2-travels-in-the-sands.png",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-(NEXT) Chapter 1. The Djurum.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/attachments/The Djurum Desert Campaign Intro.pdf",
     "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
     "Untitled.md",
     "(SD) RPG Da Rapaziada/2. Locations/The lost citadel of the scarlet minotaur.md",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/the-djurum-hex.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS2-travels-in-the-sands.png",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
