@@ -3,7 +3,7 @@
 ## TODO
 - [x] Guide to build new characters (Use SD template)
 - [x] Guide to what is available in [[Hamad Camp]]
-- [ ] Define Hex Exploration Rules
+- [x] Define Hex Exploration Rules
 ## Characters
 - [[Dariel]] - Human Priest
 - [[DeBlanc]] - Half Orc Paladin with an oath for truth
@@ -28,6 +28,7 @@
 		- Train one random poison with [[Yogg Zar of The Sillent Mountains]]
 		- Train Mounting Scrag with [[Arlomas of the Salt Lands]]
 - Build new characters (followers from [[The Hamad Tribe]])
+	- [Tokens](https://youseethis.blog/tokens/)
 - Head to HEX Exploration - define which quest line to follow
 ## Secrets and Clues
 - [ ] The prophecy that in the promissed land a group of might heroes would come to save Hamad people
