@@ -6,7 +6,7 @@ Hexes are 6-miles across. The PCs can enter a number of hexes per day based on t
 	1. Wind
 	2. Temperature
 2. [Journey](#journey)
-	1. Define Navigator,
+	1. Define Navigator
 	2. Define direction or destiny
 	3. Navigation Test
 3. [Pace](#Pace)
@@ -48,9 +48,9 @@ if not Good, roll 2d6 for Temperature
 | 10-11 | Warm      | Cool      |
 | 12    | Cool      | Chilly    |
 **Hot**: Travelling creatures requires one extra ration per day
-**Inferno**: Traveling creatures requires one extra ration per day
+**Inferno**: Traveling creatures takes 1d6 damage each hour
 ### Journey
-Choose a navigator, which will define the destiny and trace the route. If the navigator is not familiar with the region, is not following an obvious guide, like an river or a road, then a Navigation test is necessary. For that, test INT wit difficulty Hard (CD 15), or Extreme in case of a Sandstorm (CD 18). If fails, roll in the table below and move to the selected direction.
+Choose a navigator, which will define the destiny and trace the route. If the navigator is not familiar with the region or he/she is not following an obvious guide, like an river or a road, then a Navigation test is necessary. For that, test INT wit difficulty Hard (CD 15), or Extreme in case of a Sandstorm (CD 18). If fails, roll in the table below and move to the selected direction.
 
 | Failed Navigation d3 | location |
 | -------------------- | -------- |
@@ -59,8 +59,10 @@ Choose a navigator, which will define the destiny and trace the route. If the na
 | 3                    | Right    |
 
 ### Pace
-The navigator must decide the travel method and pace. In the method, the way of transport should be chosen. By foot, by mount or vehicle. Then, check if it should push. When pushing, +50% additional speed, but the random encounter chance increases in one and it is not possible to execute any of the additional party roles, as foraging, per example.
-Then it is calculated how much Hexes the party has as credit. Then, for each joined hex, one is removed from the credit, or 2 in case of Difficulty terrain.
+The navigator must decide the travel method and pace. For method, the way of transport should be chosen, usually by foot, by mount or vehicle. Then, check if **Push** is desired. When pushing, +50% additional speed, but the random encounter chance increases in one and it is not possible to execute any of the additional party roles, as foraging, per example.
+Then how much Hexes the party has as credit is calculated . For each joined hex: 
+- 1 is removed from the credit, or;
+- 2 in case of Difficulty terrain.
 ### Activities
 In activities, rolls related to other party roles happens.
 Each character can assume one role. Multiple characters can assume the same role, except the Navigator role.
