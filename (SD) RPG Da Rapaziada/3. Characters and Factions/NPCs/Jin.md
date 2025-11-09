@@ -9,3 +9,6 @@ Chaotic
 ## Secrets
 - [ ] The Rakshassa (SD. 244) that is cursing people in [[Hamad Camp]]
 - [ ] Wants to kill [[Arlomas of the Salt Lands]] but without being catch by anyone from the tribe
+
+--- 
+- Admira [[Dariel]] por ter trucado bem em um jogo

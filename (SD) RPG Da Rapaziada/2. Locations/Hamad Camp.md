@@ -20,7 +20,7 @@ To use as wildcard
 - [[Jin]], Human Lawful (THE RAKSHASA)
 - Hana,Human Lawful (owns a map for a big treasure (?))
 - Ikam, Human Neutral (cannot become pregnant)
-- Lios, Human Chaotic (cannot become pregnant)
+- [[Lios]], Human Chaotic (cannot become pregnant)
 - Raan, Human Neutral (cannot become pregnant)
 - Kiara, Human Chaotic (knows the location of a big treasure)
 - Sorak, Half-Orc very tall, makes puns, (cast out of a wealthy family from [[Alkesh]])
