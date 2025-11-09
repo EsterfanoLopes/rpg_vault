@@ -11,14 +11,12 @@
             "id": "da98a9e1677e9271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
-                "mode": "source",
-                "source": false
+                "file": "(SD) RPG Da Rapaziada/2. Locations/attachments/Shadowdark Hex Crawling - V1-8 B&W Booklet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hex Exploration Rules"
+              "icon": "lucide-file-text",
+              "title": "Shadowdark Hex Crawling - V1-8 B&W Booklet"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
+                "file": "(SD) RPG Da Rapaziada/2. Locations/attachments/Shadowdark Hex Crawling - V1-8 B&W Booklet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hex Exploration Rules"
+              "title": "Backlinks for Shadowdark Hex Crawling - V1-8 B&W Booklet"
             }
           },
           {
@@ -181,13 +179,14 @@
   },
   "active": "da98a9e1677e9271",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/Shadowdark Hex Crawling - V1-8 B&W Booklet.pdf",
+    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/beta-camping-and-fast-travel.webp",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
-    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
     "Ideas/Cartographer.md",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
     "Ideas",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
     "Ideas/Tracker.md",
     "Ideas/Quartermaster.md",
     "Ideas/Navigator.md",
@@ -223,7 +222,6 @@
     "(SD) RPG Da Rapaziada/locations/attachments/Screenshot 2025-10-26 at 17.45.35.jpg",
     "(SD) RPG Da Rapaziada/factions",
     "(SD) RPG Da Rapaziada/characters/assets",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions",
     "Untitled.canvas",
     "(SD) Joguinhos do ProxFDS/attachments/bailon_the_beardless.png.png",
     "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/five-room-v-shaped_thumbnail.jpg"
