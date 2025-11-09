@@ -81,3 +81,4 @@ PCs can live without rations for 3 days in a row. After that, damage 1d4 CON per
 
 ## Source
 ![[CS4-hex-crawl-rules.png]]![[CS2-travels-in-the-sands.png]]
+![[beta-camping-and-fast-travel.webp]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker.md",
+                "file": "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tracker"
+              "title": "Hex Exploration Rules"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker.md",
+                "file": "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tracker"
+              "title": "Backlinks for Hex Exploration Rules"
             }
           },
           {
@@ -181,24 +181,26 @@
   },
   "active": "da98a9e1677e9271",
   "lastOpenFiles": [
-    "Quartermaster.md",
-    "Tracker.md",
-    "Navigator.md",
-    "Motivator.md",
-    "Medic.md",
-    "Lookout.md",
-    "Forager.md",
-    "Cartographer.md",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/beta-camping-and-fast-travel.webp",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
     "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
+    "Ideas/Cartographer.md",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
+    "Ideas",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
+    "Ideas/Tracker.md",
+    "Ideas/Quartermaster.md",
+    "Ideas/Navigator.md",
+    "Ideas/Motivator.md",
+    "Ideas/Medic.md",
+    "Ideas/Lookout.md",
+    "Ideas/Forager.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/attachments/The Djurum Desert Campaign Intro.pdf",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-(NEXT) Chapter 1. The Djurum.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-10-12 The story so far.md",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/CS2-travels-in-the-sands.png",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
     "(SD) RPG Da Rapaziada/2. Locations/The lost citadel of the scarlet minotaur.md",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/the-djurum-hex.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
@@ -213,7 +215,6 @@
     "(SD) RPG Da Rapaziada/Profecia dos Hamad.md",
     "TODO.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Murjana of the Hamad Tribe.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/NPCs.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs",
@@ -225,8 +226,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions",
     "Untitled.canvas",
     "(SD) Joguinhos do ProxFDS/attachments/bailon_the_beardless.png.png",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/five-room-v-shaped_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/september-dungeon-understructures_thumbnail.jpg",
-    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails"
+    "Externals/SlyFlourish LazyDM/dyson_maps/thumbnails/five-room-v-shaped_thumbnail.jpg"
   ]
 }
