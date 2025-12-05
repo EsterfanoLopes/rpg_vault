@@ -25,9 +25,9 @@ Cabelos lisos channel, presas inferiores muito proeminentes. Forte e robusto
 
 ## Stars and wishes
 - Holy oath to always tell the truth
-- Leave the dungeon alive
-- Find his horse
+- [x] Leave the dungeon alive
+- [ ] Find his horse
 ## Campfire stories
 - Had a dream with talked with a dragon
 - Left to die by their last party
-- Misses his horse
+- Won a steel arm competition. [[Delila of the Hamad Tribe]] admired it

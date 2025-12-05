@@ -1,4 +1,4 @@
-#pc
+#pc #dead
 ## Summary
 **Player:** Rafael Cunha
 **Ancestry:** Kobold

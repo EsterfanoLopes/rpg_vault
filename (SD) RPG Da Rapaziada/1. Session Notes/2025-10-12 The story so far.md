@@ -1,4 +1,3 @@
-#template 
 ## Characters
 - [[Dariel]] - Human Priest
 - [[DeBlanc]] - Half Orc Paladin with an oath for truth
