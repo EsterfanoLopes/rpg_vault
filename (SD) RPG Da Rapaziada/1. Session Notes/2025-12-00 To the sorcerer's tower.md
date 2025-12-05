@@ -38,7 +38,7 @@ The whole Haram tribe is watching this festival. His fight is the second of thre
 - [ ] Is said that the whole Salt Flats were once the saltiest sea in the whole world. Today is a dry sea of salt and sand
 - [ ] [[Omid of the Hammad Tribe]], son of [[Murjana of the Hamad Tribe]], disappeared in the last recognition mission to the salt lands
 - [ ] [[Delila of the Hamad Tribe]] feels guilty for his disappearance, saying that he was too young to lead a recognition group
-- [ ] 
+- [ ] Many treasures unknown are concentrated on salt flats, from the time it was a Sea and treasures were lost on it's ships for centuries
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
