@@ -42,7 +42,7 @@ The whole Haram tribe is watching this festival. His fight is the second of thre
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
-- [[Yogg Zar of The Sillent Mountains]]
+- [[The Wolf of Yarin]] is the sorcerer in the salt flats tower
 ## Monsters
 - 
 ## Treasure

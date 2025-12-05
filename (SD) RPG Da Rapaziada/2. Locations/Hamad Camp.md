@@ -18,7 +18,7 @@ To use as wildcard
 - Nura, Human Chaotic (in debt with [[Remy the merchant]])
 - Endric, Human Lawful (in debt with [[Remy the merchant]])
 - [[Jin, the bone artisan]], Human Lawful (THE RAKSHASA)
-- Hana,Human Lawful (owns a map for a big treasure (?))
+- Hana, Human Lawful (owns a map for a big treasure (?))
 - Ikam, Human Neutral (cannot become pregnant)
 - [[Lios, The bard]], Human Chaotic (cannot become pregnant)
 - Raan, Human Neutral (cannot become pregnant)
