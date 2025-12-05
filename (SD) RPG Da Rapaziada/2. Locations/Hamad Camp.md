@@ -17,10 +17,10 @@ To use as wildcard
 
 - Nura, Human Chaotic (in debt with [[Remy the merchant]])
 - Endric, Human Lawful (in debt with [[Remy the merchant]])
-- [[Jin]], Human Lawful (THE RAKSHASA)
+- [[Jin, the bone artisan]], Human Lawful (THE RAKSHASA)
 - Hana,Human Lawful (owns a map for a big treasure (?))
 - Ikam, Human Neutral (cannot become pregnant)
-- [[Lios]], Human Chaotic (cannot become pregnant)
+- [[Lios, The bard]], Human Chaotic (cannot become pregnant)
 - Raan, Human Neutral (cannot become pregnant)
 - Kiara, Human Chaotic (knows the location of a big treasure)
 - Sorak, Half-Orc very tall, makes puns, (cast out of a wealthy family from [[Alkesh]])

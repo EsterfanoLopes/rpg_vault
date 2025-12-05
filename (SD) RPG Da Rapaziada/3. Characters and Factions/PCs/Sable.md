@@ -29,4 +29,4 @@ Pequeno com alguns dentes pontiagudos para fora dos lábios. Em seus pequenos de
 - [ ] ~~To bring magic items to the mage so he can be free~~
 ## Campfire stories
 - Lost a Truco game that he played with [[Greg]]. Is in debt with [[Dariel]] and [[Raklin]]
-- Lead a song of mockery to [[Murjana of the Hamad Tribe]], which made he be admired by [[Lios]]
+- Lead a song of mockery to [[Murjana of the Hamad Tribe]], which made he be admired by [[Lios, The bard]]

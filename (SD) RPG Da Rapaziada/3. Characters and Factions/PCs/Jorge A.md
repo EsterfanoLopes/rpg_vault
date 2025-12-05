@@ -28,4 +28,4 @@ Extras:
 - [ ] ~~To bring magic items to the mage so he can be free~~
 ## Campfire stories
 - Were possessed by a ghost in the labyrinth, southwest of the labyrinth
-- In a carousing, lead a song that mocked [[Delila of the Hamad Tribe]]. which made win the admiration from [[Lios]]
+- In a carousing, lead a song that mocked [[Delila of the Hamad Tribe]]. which made win the admiration from [[Lios, The bard]]

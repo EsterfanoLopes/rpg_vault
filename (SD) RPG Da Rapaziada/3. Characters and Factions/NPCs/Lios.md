@@ -1,1 +1,0 @@
-Barda da caravana, tem a amizade do [[Jorge A]]
