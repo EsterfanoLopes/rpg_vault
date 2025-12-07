@@ -24,7 +24,8 @@ A lonely, salt-encrusted tower of grey stone thrusts like a needle out of the em
 	- Omad
 - Ground Floor
 	- 1x Salamander
-	- Naga (Bones)
+	- 1x Troll
+	- 3x Gnolls
 - Dungeons
 	- Bulette
 	- 2x Rust Monsters
