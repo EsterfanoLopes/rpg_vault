@@ -11,5 +11,22 @@ A lonely, salt-encrusted tower of grey stone thrusts like a needle out of the em
 ## Inhabitants
 - Lair of [[The Wolf of Yarin]] 
 - Tajora, a purple worm pet to [[The Wolf of Yarin]]
+
+#### Monsters
+- The Chains
+	- Basilisk
+- Upstairs
+- Ground Floor
+- Dungeons
+	- Bulette
+	- 
+
 ## Random Encounters
-1. TODO
+Unsafe. Check every 3 rounds
+
+| d6  | Details       |
+| --- | ------------- |
+| 1   | 1d4 + 1 Harpy |
+| 2   | 1d2 Bulette   |
+| 3   | Grick         |
+| 4   | 2d4 Gnolls    |
