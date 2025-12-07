@@ -15,11 +15,19 @@ A lonely, salt-encrusted tower of grey stone thrusts like a needle out of the em
 #### Monsters
 - The Chains
 	- Basilisk
+	- 4x Eye Rays
 - Upstairs
+	- 3x Mages (Yarin apprenctices)
+		- Runi
+		- Esotopes
+		- Abras
+	- Omad
 - Ground Floor
+	- 1x Salamander
+	- Naga (Bones)
 - Dungeons
 	- Bulette
-	- 
+	- 2x Rust Monsters
 
 ## Random Encounters
 Unsafe. Check every 3 rounds
