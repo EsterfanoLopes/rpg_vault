@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Saltstone Tower"
             }
+          },
+          {
+            "id": "8e9d077998de4d16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1178b767fb59e4c9",
+  "active": "8e9d077998de4d16",
   "lastOpenFiles": [
     "(SD) RPG Da Rapaziada/2. Locations/Example Location.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
