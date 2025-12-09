@@ -11,10 +11,14 @@
             "id": "9b6130187d65ca74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "lopest-shared-data/module.json",
+                "bFile": "lopest-shared-data/module.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: module.json"
             }
           }
         ]
@@ -175,8 +179,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3298d489ea321b01",
+  "active": "9b6130187d65ca74",
   "lastOpenFiles": [
+    "lopest-shared-data/v1.0.1.zip",
+    "v1.0.1.zip",
+    "lopest-shared-data/packs/roll-tables/MANIFEST-000018",
+    "lopest-shared-data/packs/roll-tables/LOG.old",
+    "lopest-shared-data/packs/roll-tables/LOG",
+    "lopest-shared-data/packs/roll-tables/LOCK",
+    "lopest-shared-data/packs/roll-tables/CURRENT",
+    "lopest-shared-data/packs/roll-tables/000019.log",
+    "lopest-shared-data/packs/roll-tables",
+    "lopest-shared-data/packs/monsters/MANIFEST-000018",
+    "lopest-shared-data/packs/monsters/LOG.old",
+    "lopest-shared-data/assets/saltstone-tower.webp",
     "(SD) RPG Da Rapaziada/2. Locations/Saltstone Tower.md",
     "(SD) Joguinhos do ProxFDS/Characters.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments/bailon_the_beardless.png.png",
@@ -189,8 +205,6 @@
     "Templates/NPCs.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-12-00 To the sorcerer's tower.md",
-    "Templates",
-    "(SD) RPG Da Rapaziada/0.Templates",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/The Hamad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Ras-Godai.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Yogg Zar of The Sillent Mountains.md",
@@ -207,21 +221,12 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Lana.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Kawsaskanchis.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Jorge A.md",
-    "Ideas",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/travel-procedure.png",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/the-djurum-hex.jpg",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/Shadowdark Hex Crawling - V1-8 B&W Booklet.pdf",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/Hexcrawiling.png",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/Climate.webp",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS2-travels-in-the-sands.png",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments",
     "Untitled.canvas"
   ]
 }

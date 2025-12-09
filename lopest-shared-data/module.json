@@ -1,0 +1,108 @@
+{
+  "id": "lopest-shared-data",
+  "title": "Lopest Shared Data",
+  "description": "Sharing data across worlds",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.5.0",
+          "verified": "3.6.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Lopest"
+    }
+  ],
+  "packs": [
+    {
+      "name": "monsters",
+      "label": "Monsters",
+      "system": "shadowdark",
+      "path": "packs/monsters",
+      "type": "Actor"
+    },
+    {
+      "name": "adventures",
+      "label": "Adventures",
+      "system": "shadowdark",
+      "path": "packs/adventures",
+      "type": "Adventure"
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "system": "shadowdark",
+      "path": "packs/items",
+      "type": "Item"
+    },
+    {
+      "name": "journals",
+      "label": "Documents",
+      "system": "shadowdark",
+      "path": "packs/journals",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "system": "shadowdark",
+      "path": "packs/macros",
+      "type": "Macro"
+    },
+    {
+      "name": "maps",
+      "label": "Maps",
+      "system": "shadowdark",
+      "path": "packs/maps",
+      "type": "Scene"
+    },
+    {
+      "name": "roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "system": "shadowdark",
+      "ownership": {
+        "ASSISTANT": "OWNER",
+        "PLAYER": "OBSERVER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Lopest Shared Content",
+      "sorting": "a",
+      "color": "#3a283e",
+      "packs": [
+        "adventures",
+        "items",
+        "journals",
+        "macros",
+        "maps",
+        "monsters",
+        "roll-tables"
+      ]
+    }
+  ],
+  "flags": {
+    "shadowdark": {
+      "sources": {
+        "lopest_shared_content": "Lopest Shared Content"
+      }
+    }
+  },
+  "url": "https://github.com/EsterfanoLopes/rpg_vault/lopest-shared-data",
+  "manifest": "https://github.com/EsterfanoLopes/rpg_vault/releases/download/latest/module.json",
+  "download": "https://github.com/EsterfanoLopes/rpg_vault/releases/download/v1.0.1/v1.0.1.zip"
+}
