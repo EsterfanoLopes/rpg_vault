@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62723f32bd799f4b",
+        "id": "65e2b979e6c28c78",
         "type": "tabs",
         "children": [
           {
-            "id": "c424fdad65859417",
+            "id": "9b6130187d65ca74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SD) Joguinhos do ProxFDS/Characters.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) Joguinhos do ProxFDS/Characters.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters"
+              "title": "Outline"
             }
           },
           {
@@ -180,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c424fdad65859417",
+  "active": "3298d489ea321b01",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments/bailon_the_beardless.png.png",
+    "(SD) RPG Da Rapaziada/2. Locations/Saltstone Tower.md",
     "(SD) Joguinhos do ProxFDS/Characters.md",
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments/bailon_the_beardless.png.png",
     "(SD) Joguinhos do ProxFDS/attachments/bailon_the_beardless.png.png",
     "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
@@ -200,7 +196,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Yogg Zar of The Sillent Mountains.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
-    "(SD) RPG Da Rapaziada/2. Locations/Saltstone Tower.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Omid of the Hammad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
