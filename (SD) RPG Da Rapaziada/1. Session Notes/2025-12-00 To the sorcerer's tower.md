@@ -19,7 +19,7 @@ The whole Haram tribe is watching this festival. His fight is the second of thre
 	- Against a **Lion** (SD 231)
 	- The challenge is given, and he accepts or not. It is clear that not accept is considered a dishonor.
 ### Departure to the salt flats
-- Suplement buy with [[Remy the merchant]]
+- Supplement buy with [[Remy the merchant]]
 - Planning to travel. May be talked with [[Delila of the Hamad Tribe]] or [[Remy the merchant]]
 
 ### Hex Exploration
@@ -39,13 +39,12 @@ The whole Haram tribe is watching this festival. His fight is the second of thre
 - [ ] [[Omid of the Hammad Tribe]], son of [[Murjana of the Hamad Tribe]], disappeared in the last recognition mission to the salt lands
 - [ ] [[Delila of the Hamad Tribe]] feels guilty for his disappearance, saying that he was too young to lead a recognition group
 - [ ] Many treasures unknown are concentrated on salt flats, from the time it was a Sea and treasures were lost on it's ships for centuries
+- [ ] [[The Wolf of Yarin]] has a Black Lotus flower in it's vault
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
 - [[The Wolf of Yarin]] is the sorcerer in the salt flats tower
-## Monsters
-- 
 ## Treasure
-- 
+- [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
 ## Session Notes
 - 
