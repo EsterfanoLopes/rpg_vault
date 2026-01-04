@@ -11,14 +11,14 @@
             "id": "9b6130187d65ca74",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "lopest-shared-data/module.json",
-                "bFile": "lopest-shared-data/module.json",
-                "aRef": ""
+                "file": "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: module.json"
+              "icon": "lucide-file",
+              "title": "Hex Exploration - Official (Beta)"
             }
           }
         ]
