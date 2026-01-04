@@ -12,12 +12,13 @@
 - [Raklin Pit Fight](#raklin-pit-fight)
 ## Scenes
 
-### [[Raklin]] pit fight
+### [[Raklin]] and [[Rhayla]] pit fight
 The whole Haram tribe is watching this festival. His fight is the second of three fights on the pit fight event on that month.
-- The bout is for ... **20 GP**
+- The bout is for ... **20 GP** 
 	- With **no twists**
 	- Against a **Lion** (SD 231)
 	- The challenge is given, and he accepts or not. It is clear that not accept is considered a dishonor.
+- The bount is for ... 31 GP and a chain mail (Rhayla)
 ### Departure to the salt flats
 - Supplement buy with [[Remy the merchant]]
 - Planning to travel. May be talked with [[Delila of the Hamad Tribe]] or [[Remy the merchant]]
