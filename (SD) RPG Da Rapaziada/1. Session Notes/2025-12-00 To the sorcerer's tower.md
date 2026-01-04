@@ -30,16 +30,16 @@ The whole Haram tribe is watching this festival. His fight is the second of thre
 	- Explain procedure and explain any rule they have
 
 ## Secrets and Clues
-- [ ] [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] has captured his eldest son, [[Omid of the Hammad Tribe]]
-- [ ] [[Delila of the Hamad Tribe]] knows that traveling in the desert is harsh and many of the [[The Hamad Tribe]] had been lost in the peregrination
-- [ ] [[Delila of the Hamad Tribe]] believes that the party are the heroes from the prophecy
+- [x] [[Murjana of the Hamad Tribe]] believes that the sorcerer in the [[Saltstone Tower]] has captured his eldest son, [[Omid of the Hammad Tribe]]
+- [x] [[Delila of the Hamad Tribe]] knows that traveling in the desert is harsh and many of the [[The Hamad Tribe]] had been lost in the peregrination
+- [x] [[Delila of the Hamad Tribe]] believes that the party are the heroes from the prophecy
 - [ ] [[Murjana of the Hamad Tribe]] is not quite sure that the prophecy is fulfilled yet, neither that the party is their saviors
 - [ ] [[The Hamad Tribe]] comes from afar escaping from [[The Scourge]], a giant flying Wyrm that took their promised land in the Red Mountains and killed most of it's might people
 - [ ] [[Arlomas of the Salt Lands]] in the tribe was once learned from a member of the [[Ras-Godai]] how to make a poison
-- [ ] Is said that the whole Salt Flats were once the saltiest sea in the whole world. Today is a dry sea of salt and sand
-- [ ] [[Omid of the Hammad Tribe]], son of [[Murjana of the Hamad Tribe]], disappeared in the last recognition mission to the salt lands
-- [ ] [[Delila of the Hamad Tribe]] feels guilty for his disappearance, saying that he was too young to lead a recognition group
-- [ ] Many treasures unknown are concentrated on salt flats, from the time it was a Sea and treasures were lost on it's ships for centuries
+- [x] Is said that the whole Salt Flats were once the saltiest sea in the whole world. Today is a dry sea of salt and sand
+- [x] [[Omid of the Hammad Tribe]], son of [[Murjana of the Hamad Tribe]], disappeared in the last recognition mission to the salt lands
+- [x] [[Delila of the Hamad Tribe]] feels guilty for his disappearance, saying that he was too young to lead a recognition group
+- [x] Many treasures unknown are concentrated on salt flats, from the time it was a Sea and treasures were lost on it's ships for centuries
 - [ ] [[The Wolf of Yarin]] has a Black Lotus flower in it's vault
 ## Fantastic Locations
 - [[Saltstone Tower]]
@@ -48,4 +48,7 @@ The whole Haram tribe is watching this festival. His fight is the second of thre
 ## Treasure
 - [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
 ## Session Notes
-- 
+- [[Raklin]] and [[Rhayla]] made each one pit fight
+- They traveled until the mage tower
+- The gnolls ambushed them, but died
+- They discovered that there are chains that controls the gates *somewhere*
