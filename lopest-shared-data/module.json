@@ -2,7 +2,7 @@
   "id": "lopest-shared-data",
   "title": "Lopest Shared Data",
   "description": "Sharing data across worlds",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -30,6 +30,13 @@
       "label": "Monsters",
       "system": "shadowdark",
       "path": "packs/monsters",
+      "type": "Actor"
+    },
+    {
+      "name": "players",
+      "label": "Players",
+      "system": "shadowdark",
+      "path": "packs/players",
       "type": "Actor"
     },
     {
@@ -91,7 +98,8 @@
         "macros",
         "maps",
         "monsters",
-        "roll-tables"
+        "roll-tables",
+        "players"
       ]
     }
   ],
@@ -104,5 +112,5 @@
   },
   "url": "https://github.com/EsterfanoLopes/rpg_vault",
   "manifest": "https://github.com/EsterfanoLopes/rpg_vault/releases/latest/download/module.json",
-  "download": "https://github.com/EsterfanoLopes/rpg_vault/releases/download/v1.0.1/v1.0.1.zip"
+  "download": "https://github.com/EsterfanoLopes/rpg_vault/releases/download/v1.0.2/v1.0.2.zip"
 }
