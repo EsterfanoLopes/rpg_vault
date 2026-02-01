@@ -11,13 +11,28 @@
             "id": "0258c164135ff328",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "lopest-shared-data/assets/players/ary.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "ary"
+            }
+          },
+          {
+            "id": "7e0c07896bc8915d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 586.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +190,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0258c164135ff328",
+  "active": "7e0c07896bc8915d",
   "lastOpenFiles": [
+    "lopest-shared-data/packs/players/MANIFEST-000006",
+    "lopest-shared-data/packs/players/LOG.old",
+    "lopest-shared-data/packs/players/000010.ldb",
+    "lopest-shared-data/packs/players/LOG",
+    "lopest-shared-data/packs/players/LOCK",
+    "lopest-shared-data/packs/players/CURRENT",
+    "lopest-shared-data/packs/players/000008.log",
+    "lopest-shared-data/packs/players",
+    "lopest-shared-data/packs/macros/MANIFEST-000032",
+    "lopest-shared-data/packs/macros/000034.log",
+    "lopest-shared-data/packs/journals/MANIFEST-000034",
+    "lopest-shared-data/assets/players/silas.jpeg",
+    "lopest-shared-data/assets/players/kippy.jpeg",
+    "lopest-shared-data/assets/players/merg.jpg",
+    "lopest-shared-data/assets/players/gund.jpeg",
+    "lopest-shared-data/assets/players/erin.jpeg",
+    "lopest-shared-data/assets/players/ary.jpeg",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-12-00 To the sorcerer's tower.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
@@ -188,16 +220,6 @@
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Jin, the bone artisan.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Raklin.md",
-    "lopest-shared-data/v1.0.1.zip",
-    "v1.0.1.zip",
-    "lopest-shared-data/packs/roll-tables/MANIFEST-000018",
-    "lopest-shared-data/packs/roll-tables/LOG.old",
-    "lopest-shared-data/packs/roll-tables/LOG",
-    "lopest-shared-data/packs/roll-tables/LOCK",
-    "lopest-shared-data/packs/roll-tables/CURRENT",
-    "lopest-shared-data/packs/roll-tables/000019.log",
-    "lopest-shared-data/packs/roll-tables",
-    "lopest-shared-data/packs/monsters/MANIFEST-000018",
     "lopest-shared-data/assets/saltstone-tower.webp",
     "(SD) Joguinhos do ProxFDS/Characters.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments/bailon_the_beardless.png.png",
@@ -216,13 +238,6 @@
     "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Preethi.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Octuz.md",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/travel-procedure.png",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/the-djurum-hex.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/CS4-hex-crawl-rules.png",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/Hexcrawiling.png",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/Climate.webp",
     "Untitled.canvas"
   ]
 }
