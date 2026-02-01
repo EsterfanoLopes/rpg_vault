@@ -23,12 +23,14 @@
             "id": "7e0c07896bc8915d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "2026-02-01 To the sorcerer's tower 2"
             }
           }
         ],
@@ -64,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rhayla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,6 +194,12 @@
   },
   "active": "7e0c07896bc8915d",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Rhayla.md",
+    "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 2.md",
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Tharin.md",
+    "(SD) RPG Da Rapaziada/1. Session Notes/2025-12-16 To the sorcerer's tower.md",
+    "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
+    "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
     "lopest-shared-data/packs/players/MANIFEST-000006",
     "lopest-shared-data/packs/players/LOG.old",
     "lopest-shared-data/packs/players/000010.ldb",
@@ -202,14 +210,12 @@
     "lopest-shared-data/packs/players",
     "lopest-shared-data/packs/macros/MANIFEST-000032",
     "lopest-shared-data/packs/macros/000034.log",
-    "lopest-shared-data/packs/journals/MANIFEST-000034",
     "lopest-shared-data/assets/players/silas.jpeg",
     "lopest-shared-data/assets/players/kippy.jpeg",
     "lopest-shared-data/assets/players/merg.jpg",
     "lopest-shared-data/assets/players/gund.jpeg",
     "lopest-shared-data/assets/players/erin.jpeg",
     "lopest-shared-data/assets/players/ary.jpeg",
-    "(SD) RPG Da Rapaziada/1. Session Notes/2025-12-00 To the sorcerer's tower.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
     "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
     "(SD) RPG Da Rapaziada/2. Locations/Saltstone Tower.md",
@@ -217,7 +223,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Omid of the Hammad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Murjana of the Hamad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
-    "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Jin, the bone artisan.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Raklin.md",
     "lopest-shared-data/assets/saltstone-tower.webp",
@@ -225,7 +230,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments/bailon_the_beardless.png.png",
     "(SD) Joguinhos do ProxFDS/attachments/bailon_the_beardless.png.png",
     "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
     "(SD) Joguinhos do ProxFDS/Locations/Example Location.md",
     "Templates/Location.md",
     "Templates/PC.md",
@@ -236,8 +240,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Yogg Zar of The Sillent Mountains.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/saltstone-tower.webp",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Preethi.md",
-    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration Rules.md",
     "Untitled.canvas"
   ]
 }

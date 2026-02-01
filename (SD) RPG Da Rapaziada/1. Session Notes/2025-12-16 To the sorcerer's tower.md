@@ -5,7 +5,7 @@
 - [[Jorge A]] - Elf Warrior In search of ?
 - [[Lana]] - Half Orc warrior in search of her brother
 - [[Octuz]] - Human wizard which knows many things about desert people
-- [[Preethi]] - Human Assassin (Ras-Godai) interested in the hiding skills from the Kobold
+- [[Tharin]] - Human Assassin (Ras-Godai) interested in the hiding skills from the Kobold
 - [[Raklin]] - Human pit fighter in search of ?
 - [[Sable]] - Kobold Thief in search of richness, rejected prole from a dragon
 ## Strong Start
