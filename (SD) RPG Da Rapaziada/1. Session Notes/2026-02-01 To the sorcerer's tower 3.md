@@ -10,6 +10,8 @@
       This represents a menace to the group, as a fight with the bullete can bring the down floor down if the wood that holds the cealing is affected
 - [ ] The injuried Gnoll
       Next to the stone golem there is a hurt Gnoll. He scaped the Bullete and it's searching for scaping alive
+- [ ] Lever puzzle
+      Four levers. One is UP, three are DOWN. Each UP lever opens/closes a door. When all doors are OPEN, the fifth door is OPEN.
 
 ## Secrets and Clues
 - [ ] [[The Hamad Tribe]] comes from afar escaping from [[The Scourge]], a giant flying Wyrm that took their promised land in the Red Mountains and killed most of it's might people
@@ -21,7 +23,7 @@
 - [ ] The chain controls are in the top of the tower
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
 - [ ] **The Gnoll** nows that there are magic users in the tower, but they come and goes with their magic, they could not find them
-- [ ] In the fround floor, levers can open a secret passage to the throne room
+- [ ] In the ground floor, levers can open a secret passage to the throne room
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
