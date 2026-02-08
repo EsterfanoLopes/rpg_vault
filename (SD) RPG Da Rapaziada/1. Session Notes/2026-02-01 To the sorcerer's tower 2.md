@@ -12,7 +12,7 @@
 ## Strong Start
 - The party see themselves in a poor scenario. They are hurt and they don't know what to expect from this dungeon. They are going to a new level when they feel tremors as they go down the stairs
 ## Scenes
-- Bullete VS Troll and gnoll
+- ~~Bullete VS Troll and gnoll~~ This didn't happened. Instead, they found the Troll body dead on the floor of the room where the bullete was. The bullete was not found yet
 
 ## Secrets and Clues
 - [ ] [[Murjana of the Hamad Tribe]] is not quite sure that the prophecy is fulfilled yet, neither that the party is their saviors
@@ -33,7 +33,6 @@
 ## Treasure
 - [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
 ## Session Notes
-- 
-- 
-- 
-- 
+- They found that behind the doors of the main floor there is a throne and many mobil made of wood, which means that they have value and treasures
+- They are sure that the chain doors are controlled somewhere
+- They travelled far from the tower to rest. They worked with the mechanics of camping and resting
