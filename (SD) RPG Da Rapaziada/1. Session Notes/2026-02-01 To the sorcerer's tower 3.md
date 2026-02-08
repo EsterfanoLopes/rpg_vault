@@ -21,7 +21,7 @@
 - [ ] The chain controls are in the top of the tower
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
 - [ ] **The Gnoll** nows that there are magic users in the tower, but they come and goes with their magic, they could not find them
-- [ ] 
+- [ ] In the fround floor, levers can open a secret passage to the throne room
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
