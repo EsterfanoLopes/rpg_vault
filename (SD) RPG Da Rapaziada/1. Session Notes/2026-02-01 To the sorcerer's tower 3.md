@@ -8,7 +8,7 @@
 ## Scenes
 - [ ] *The encounter with the Bullete*
       This represents a menace to the group, as a fight with the bullete can bring the down floor down if the wood that holds the cealing is affected
-- [ ] The injuried Gnoll
+- [x] The injuried Gnoll
       Next to the stone golem there is a hurt Gnoll. He scaped the Bullete and it's searching for scaping alive
 - [ ] Lever puzzle
       Four levers. One is UP, three are DOWN. Each UP lever opens/closes a door. When all doors are OPEN, the fifth door is OPEN.
@@ -22,7 +22,7 @@
 - [ ] [[The Wolf of Yarin]] works for a secret organization who collects magical items for an unknown purpose
 - [ ] The chain controls are in the top of the tower
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
-- [ ] **The Gnoll** nows that there are magic users in the tower, but they come and goes with their magic, they could not find them
+- [x] **The Gnoll** nows that there are magic users in the tower, but they come and goes with their magic, they could not find them
 - [ ] In the ground floor, levers can open a secret passage to the throne room
 ## Fantastic Locations
 - [[Saltstone Tower]]
@@ -32,4 +32,4 @@
 ## Treasure
 - [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
 ## Session Notes
-- 
+- They spoke with the gnoll, which informed then about the mages and the misterious person that attacked him by the back. Had a female voice
