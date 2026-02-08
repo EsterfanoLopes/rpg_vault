@@ -1,5 +1,5 @@
 ## Characters
-- [ ] [[Greg]] - Human pit fighter Truco player
+- [ ] [[Greg]] - Human pit fighter Truco player that is afraid of statues
 - [ ] [[Octuz]] - Human wizard which knows many things about desert people
 - [ ] [[Raklin]] - Human pit fighter in search of gold
 - [ ] [[Rhayla]] - Human pit fighter in search of glory
