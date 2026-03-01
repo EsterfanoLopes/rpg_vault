@@ -8,19 +8,19 @@
 ## Strong Start
 - 3 days has past since the camp had news about the other group. The night is falling and they discuss about what to do in the next morning. The fire crackles at the small fire that they manage to luckily make at the cold night of the desert.
 ## Scenes
-- [ ] *The silver bell tolls*
+- [x] *The silver bell tolls*
       At night, a frail woman with black hair and pallid face called [[Sabriel]] approaches the camp at the toll of a silver bell. She approaches Lana, informing that the place of a sea sailor is not in a dead sea. She is dead in live. She informs that a persistent soul follows their friends, a soul that fights to not leave because it's mission is not finished at this plane.
 	- She may perform a ritual to separate Khalsaskanchis to depart to the styx river
-- [ ] [[Saltstone Tower]]
+- [x] [[Saltstone Tower]]
       The white tower appears on between the red sands of the djurum desert.
-- [ ] *The putrid basement*
+- [x] *The putrid basement*
       The smell is awful at the basement of the tower. The dead wanderers at the desert, the corpses of the living Sucumb as dead walkers forever in their sands.
 - [ ] Lever puzzle
       Four levers. One is UP, three are DOWN. Each UP lever opens/closes a door. When all doors are OPEN, the fifth door is OPEN.
 
 ## Secrets and Clues
 - [x] The death in the salt flats are cursed to wander unless proper rites are made so their souls can depart
-- [ ] [[The Wolf of Yarin]] has a Black Lotus flower in it's vault
+- [x] [[The Wolf of Yarin]] has a Black Lotus flower in it's vault
 - [x] [[Omid of the Hammad Tribe]] was saved by [[Abras]] and the other studants from [[The Wolf of Yarin]]
 - [x] [[Omid of the Hammad Tribe]] wants to stay and study magic with [[The Wolf of Yarin]]
 - [ ] [[The Wolf of Yarin]] is making a beholder on the top of the tower

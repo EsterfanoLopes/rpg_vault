@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-02-01 To the sorcerer's tower 4"
             }
+          },
+          {
+            "id": "538d80396ab545ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee191757318b6cd3",
+  "active": "538d80396ab545ae",
   "lastOpenFiles": [
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Greg.md",
     "(SD) Joguinhos do ProxFDS/Characters.md",
