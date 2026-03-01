@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-02-01 To the sorcerer's tower 3"
             }
+          },
+          {
+            "id": "5e07e56832128df5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e81001ca75c8a33",
+  "active": "5e07e56832128df5",
   "lastOpenFiles": [
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 2.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 3.md",
