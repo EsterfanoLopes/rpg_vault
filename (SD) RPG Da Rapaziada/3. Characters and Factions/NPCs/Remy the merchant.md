@@ -1,4 +1,4 @@
-**Description:** Justice Bladewalker is a 47 year old male human merchant.
+**Description:**  is a 47 year old male human merchant.
 He has short, curled, brown hair and green eyes.
 He has silky brown-bronze skin.
 He stands 182cm (5'11") tall and has a round build.
