@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e81001ca75c8a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-01 To the sorcerer's tower 3"
-            }
-          },
-          {
-            "id": "5e07e56832128df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-01 To the sorcerer's tower 4"
-            }
-          },
-          {
             "id": "ee191757318b6cd3",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "2026-02-01 To the sorcerer's tower 4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,19 +181,20 @@
   },
   "active": "ee191757318b6cd3",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 3.md",
+    "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 4.md",
+    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
+    "(SD) RPG Da Rapaziada/2. Locations/attachments/camping-fasttrravel.png",
+    "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Sabriel.md",
     "Templates/NPCs.md",
-    "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 4.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-12-16 To the sorcerer's tower.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
-    "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 3.md",
     "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/Untitled.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-02-01 To the sorcerer's tower 2.md",
     "lopest-shared-data/assets/players/ary.jpeg",
-    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/camping-fasttrravel.png",
     "(SD) RPG Da Rapaziada/2. Locations/Saltstone Tower.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Rhayla.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Tharin.md",
@@ -241,7 +213,6 @@
     "lopest-shared-data/assets/players/merg.jpg",
     "lopest-shared-data/assets/players/gund.jpeg",
     "lopest-shared-data/assets/players/erin.jpeg",
-    "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Remy the merchant.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Omid of the Hammad Tribe.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Murjana of the Hamad Tribe.md",
@@ -255,7 +226,6 @@
     "(SD) Joguinhos do ProxFDS/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "(SD) Joguinhos do ProxFDS/Locations/Example Location.md",
     "Templates/Location.md",
-    "Templates/PC.md",
     "Untitled.canvas"
   ]
 }

@@ -6,7 +6,7 @@
 - [x] [[Tharin]] - Human Assassin (Ras-Godai) interested in the hiding skills from the Kobold
 - [ ] [[Sable]] - Kobold Thief in search of richness, rejected prole from a dragon
 ## Strong Start
-- Days has past since the camp had news about the other group. The night is falling and they discuss about what to do in the next morning. The fire crackles at the small fire that they manage to luckily make at the cold night of the desert.
+- 3 days has past since the camp had news about the other group. The night is falling and they discuss about what to do in the next morning. The fire crackles at the small fire that they manage to luckily make at the cold night of the desert.
 ## Scenes
 - [ ] *The silver bell tolls*
       At night, a frail woman with black hair and pallid face called [[Sabriel]] approaches the camp at the toll of a silver bell. She approaches Lana, informing that the place of a sea sailor is not in a dead sea. She is dead in live. She informs that a persistent soul follows their friends, a soul that fights to not leave because it's mission is not finished at this plane.
