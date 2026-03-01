@@ -19,15 +19,15 @@
       Four levers. One is UP, three are DOWN. Each UP lever opens/closes a door. When all doors are OPEN, the fifth door is OPEN.
 
 ## Secrets and Clues
-- [ ] The death in the salt flats are cursed to wander unless proper rites are made so their souls can depart
+- [x] The death in the salt flats are cursed to wander unless proper rites are made so their souls can depart
 - [ ] [[The Wolf of Yarin]] has a Black Lotus flower in it's vault
-- [ ] [[Omid of the Hammad Tribe]] was saved by [[Abras]] and the other studants from [[The Wolf of Yarin]]
-- [ ] [[Omid of the Hammad Tribe]] wants to stay and study magic with [[The Wolf of Yarin]]
+- [x] [[Omid of the Hammad Tribe]] was saved by [[Abras]] and the other studants from [[The Wolf of Yarin]]
+- [x] [[Omid of the Hammad Tribe]] wants to stay and study magic with [[The Wolf of Yarin]]
 - [ ] [[The Wolf of Yarin]] is making a beholder on the top of the tower
 - [ ] [[The Wolf of Yarin]] works for a secret organization who collects magical items for an unknown purpose
 - [ ] The chain controls are in the top of the tower
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
-- [ ] [[Sabriel]] wants to understand the curse on the salt plains, where forbids souls to cross the Styx river
+- [x] [[Sabriel]] wants to understand the curse on the salt plains, where forbids souls to cross the Styx river
 - [ ] In the ground floor, levers can open a secret passage to the throne room
 ## Fantastic Locations
 - [[Saltstone Tower]]
