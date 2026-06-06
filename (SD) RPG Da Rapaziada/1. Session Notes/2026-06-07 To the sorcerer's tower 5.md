@@ -20,7 +20,7 @@ Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que 
 - [ ] (Gancho) Andarilhos do deserto
       Voltando da torre os personagens encontram um homem puxando um camelo pelas rédeas de um cavalo. Montado no cavalo tem uma pessoa toda coberta de panos para proteger-se do sol. Apenas os olhos estão a mostra. O homem mal pode andar, se esforça ao máximo para dar o próximo passo e pede ajuda quando vê os personagens.
       O homem se apresenta como Allad e diz que não vai mais conseguir seguir viagem. Ele pede para proteger a passageira do cavalo e dá o cavalo como pagamento. Pede para que a levem em segurança para o [[Magani Oasis]] e a entreguem a uma mulher conhecida como [[Nurgi]], a leste do deserto. Ele garante que um bom pagamento será dado.
-      *O homem é [[Allad Karim]] e a pessoa coberta é [[Shar Yasmila]]. Ela nunca se apresenta por esse nome e usa um nome falso de Mishar*. 
+      *O homem é [[Allad Karim]] e a pessoa coberta é [[(Mishar) Shar Yasmila]]. Ela nunca se apresenta por esse nome e usa um nome falso de Mishar*. 
 ## Secrets and Clues
 - [ ] 
 - [ ] 
