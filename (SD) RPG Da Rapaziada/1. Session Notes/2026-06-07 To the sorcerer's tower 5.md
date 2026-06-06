@@ -22,17 +22,17 @@ Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que 
       O homem se apresenta como Allad e diz que não vai mais conseguir seguir viagem. Ele pede para proteger a passageira do cavalo e dá o cavalo como pagamento. Pede para que a levem em segurança para o [[Magani Oasis]] e a entreguem a uma mulher conhecida como [[Nurgi]], a leste do deserto. Ele garante que um bom pagamento será dado.
       *O homem é [[Allad Karim]] e a pessoa coberta é [[(Mishar) Shar Yasmila]]. Ela nunca se apresenta por esse nome e usa um nome falso de Mishar*. 
 ## Secrets and Clues
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 - [ ] [[The Wolf of Yarin]] is making a beholder on the top of the tower
 - [ ] [[The Wolf of Yarin]] works for a secret organization who collects magical items for an unknown purpose
 - [ ] The chain controls are in the top of the tower
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
-- [ ] 
 - [ ] In the ground floor, levers can open a secret passage to the throne room
-- [ ] 
+- [ ] [[Saltstone Flats]] já foi um grande em um passado a muito esquecido e [[Saltstone Tower]] um farol 
+- [ ] Rakshasas são demônios que se alimentam da luxúria e causam azar
+- [ ] [[Ras-Godai]] são um grupo de assassinos do deserto reconhecidos. Quando seu nome é instigado a um Ras-Godai, você só tem 3 dias de vida. 
+- [ ] A cidade de [[Alkesh]] está fechada por três dias. Dizem que algo aconteceu com a família Shar
+- [ ] [[The Scourge]] é um grande lagarto alado que aterroriza a região nordeste do Deserto
+- [ ] Há uma lenda de que in [[The Djurum]] existe uma fortaleza guardada por Djins da forja com equipamentos lendários
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
@@ -40,5 +40,6 @@ Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que 
 - [[Omid of the Hammad Tribe]] the lost son of [[Murjana of the Hamad Tribe]]  and *sobrinho* of [[Delila of the Hamad Tribe]]
 ## Treasure
 - [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
+- Items na sala do trono na [[Saltstone Tower]]
 ## Session Notes
 - 
