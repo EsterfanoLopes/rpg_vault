@@ -5,29 +5,34 @@
 - [ ] [[Sable]] - Kobold Thief in search of richness, rejected prole from a dragon
 ## Strong Start
 
+Há cadáveres por todos os lados. A podridão se alastra pela abafada sala no porão desta torre, e se torna proeminente. Vocês buscam por ar fresco, mas só vem podridão. Suas armas e armaduras estão pegajosas com pedaços da pele gosmenta dessas criaturas que os atacaram. Criaturas? Bom, a três dias atrás vocês eram companheiros, explorando o deserto vermelho. Hoje, vocês os mataram pela segunda vez para sobreviver.
 
+Jorge segura uma tocha agora fraca, mas que ilumina bem esse lugar abafado. Fora os cadáveres agora desanimados de seus antigos companheiros da tribo Hamad, também há outro corpulento cadáver com mordidas randes perto da escada, e ainda outra criatura com um bocarrão e uma carapaça de rocha dura mais a direita. Jorge olha ao seu redor. Um porão com o chão de pedra quebrado, expondo a areia compacta que estava abaixo dele. Ripas de madeira seca a décadas segurando o firmamento acima de sua cabeça. O tilintar de metal que faz os equipamentos de seus companheiros enquanto eles se desvilhenciam como podem da matéria podre que dá mal cheiro ao lugar.
 
-- [x] *The silver bell tolls*
-      At night, a frail woman with black hair and pallid face called [[Sabriel]] approaches the camp at the toll of a silver bell. She approaches Lana, informing that the place of a sea sailor is not in a dead sea. She is dead in live. She informs that a persistent soul follows their friends, a soul that fights to not leave because it's mission is not finished at this plane.
-	- She may perform a ritual to separate Khalsaskanchis to depart to the styx river
-- [x] [[Saltstone Tower]]
-      The white tower appears on between the red sands of the djurum desert.
-- [x] *The putrid basement*
-      The smell is awful at the basement of the tower. The dead wanderers at the desert, the corpses of the living Sucumb as dead walkers forever in their sands.
+Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que alcançamos vindo aqui, afinal? O pensamento se vai quando Jorge percebe um barulho distinto, vindo da porta no canto da sala. Singelo e baixo, quase imperceptível, como de um metal enferrujado sendo quebrado pouco a pouco.
+
+## Scenes
 - [ ] Lever puzzle
       Four levers. One is UP, three are DOWN. Each UP lever opens/closes a door. When all doors are OPEN, the fifth door is OPEN.
 
+- [ ] Um lobo no deserto
+      [[The Wolf of Yarin]] retorna de sua expedição. Se os personagens voltarem do puzzle pela escadaria, eles encontram o [[The Wolf of Yarin]]. Ele está pacífico, não vê ameaça nos personagens. Pergunta o que fazem ali e avisa que essa parte da torre pode ser perigosa. O lobo é o tutor dos magos que eles encontraram antes e mantém o que lhe interessa na torre.
+- [ ] (Gancho) Andarilhos do deserto
+      Voltando da torre os personagens encontram um homem puxando um camelo pelas rédeas de um cavalo. Montado no cavalo tem uma pessoa toda coberta de panos para proteger-se do sol. Apenas os olhos estão a mostra. O homem mal pode andar, se esforça ao máximo para dar o próximo passo e pede ajuda quando vê os personagens.
+      O homem se apresenta como Allad e diz que não vai mais conseguir seguir viagem. Ele pede para proteger a passageira do cavalo e dá o cavalo como pagamento. Pede para que a levem em segurança para o [[Magani Oasis]] e a entreguem a uma mulher conhecida como [[Nurgi]], a leste do deserto. Ele garante que um bom pagamento será dado.
+      *O homem é [[Allad Karim]] e a pessoa coberta é [[Shar Yasmila]]. Ela nunca se apresenta por esse nome e usa um nome falso de Mishar*. 
 ## Secrets and Clues
-- [x] The death in the salt flats are cursed to wander unless proper rites are made so their souls can depart
-- [x] [[The Wolf of Yarin]] has a Black Lotus flower in it's vault
-- [x] [[Omid of the Hammad Tribe]] was saved by [[Abras]] and the other studants from [[The Wolf of Yarin]]
-- [x] [[Omid of the Hammad Tribe]] wants to stay and study magic with [[The Wolf of Yarin]]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] [[The Wolf of Yarin]] is making a beholder on the top of the tower
 - [ ] [[The Wolf of Yarin]] works for a secret organization who collects magical items for an unknown purpose
 - [ ] The chain controls are in the top of the tower
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
-- [x] [[Sabriel]] wants to understand the curse on the salt plains, where forbids souls to cross the Styx river
+- [ ] 
 - [ ] In the ground floor, levers can open a secret passage to the throne room
+- [ ] 
 ## Fantastic Locations
 - [[Saltstone Tower]]
 ## Notable NPCs
