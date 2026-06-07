@@ -13,4 +13,4 @@
 **Bonds:** Famiulia Shar, [[Alkesh]]. 
 **Occupation:** Guarda
 
-**Voice:** Tem um 'r' muito forte
+**Voice:** Fala grosso e pausadamente
