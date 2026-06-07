@@ -28,10 +28,10 @@ Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que 
 - [ ] [[The Wolf of Yarin]] studies the black lotus properties
 - [ ] In the ground floor, levers can open a secret passage to the throne room
 - [x] [[Saltstone Flats]] já foi um grande em um passado a muito esquecido e [[Saltstone Tower]] um farol 
-- [ ] Rakshasas são demônios que se alimentam da luxúria e causam azar
+- [x] Rakshasas são demônios que se alimentam da luxúria e causam azar
 - [x] [[Ras-Godai]] são um grupo de assassinos do deserto reconhecidos. Quando seu nome é instigado a um Ras-Godai, você só tem 3 dias de vida. 
-- [ ] A cidade de [[Alkesh]] está fechada por três dias. Dizem que algo aconteceu com a família Shar
-- [ ] [[The Scourge]] é um grande lagarto alado que aterroriza a região nordeste do Deserto
+- [x] A cidade de [[Alkesh]] está fechada por três dias. Dizem que algo aconteceu com a família Shar
+- [x] [[The Scourge]] é um grande lagarto alado que aterroriza a região nordeste do Deserto
 - [ ] Há uma lenda de que in [[The Djurum]] existe uma fortaleza guardada por Djins da forja com equipamentos lendários
 ## Fantastic Locations
 - [[Saltstone Tower]]
@@ -42,4 +42,4 @@ Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que 
 - [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
 - Items na sala do trono na [[Saltstone Tower]]
 ## Session Notes
-- 
+- Dormiram descanso
