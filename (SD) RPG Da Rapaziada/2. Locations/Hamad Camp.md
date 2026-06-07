@@ -25,3 +25,4 @@ To use as wildcard
 - Kiara [grupo de omid, desaparecido], Human Chaotic (knows the location of a big treasure)
 - Sorak, Half-Orc very tall, makes puns, (cast out of a wealthy family from [[Alkesh]])
 - [[Yogg Zar of The Sillent Mountains]], Goblin Tattoed with a strange accent (that is hiding as a fugitive)
+- Joka, bebe de Remy
