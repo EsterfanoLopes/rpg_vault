@@ -1,8 +1,8 @@
 ## Characters
-- [ ] [[Dariel]] - Human Priest in search of ?
-- [ ] [[DeBlanc]] - Half Orc Paladin with an oath for truth
-- [ ] [[Jorge A]] - Elf Warrior In search of ?
-- [ ] [[Sable]] - Kobold Thief in search of richness, rejected prole from a dragon
+- [[Dariel]] - Human Priest in search of ?
+- [[DeBlanc]] - Half Orc Paladin with an oath for truth
+- [[Jorge A]] - Elf Warrior In search of ?
+- [[Sable]] - Kobold Thief in search of richness, rejected prole from a dragon
 ## Strong Start
 
 Há cadáveres por todos os lados. A podridão se alastra pela abafada sala no porão desta torre, e se torna proeminente. Vocês buscam por ar fresco, mas só vem podridão. Suas armas e armaduras estão pegajosas com pedaços da pele gosmenta dessas criaturas que os atacaram. Criaturas? Bom, a três dias atrás vocês eram companheiros, explorando o deserto vermelho. Hoje, vocês os mataram pela segunda vez para sobreviver.
@@ -12,12 +12,14 @@ Jorge segura uma tocha agora fraca, mas que ilumina bem esse lugar abafado. Fora
 Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que alcançamos vindo aqui, afinal? O pensamento se vai quando Jorge percebe um barulho distinto, vindo da porta no canto da sala. Singelo e baixo, quase imperceptível, como de um metal enferrujado sendo quebrado pouco a pouco.
 
 ## Scenes
+
 - [ ] Lever puzzle
       Four levers. One is UP, three are DOWN. Each UP lever opens/closes a door. When all doors are OPEN, the fifth door is OPEN.
 
-- [ ] Um lobo no deserto
+- [x] Um lobo no deserto
       [[The Wolf of Yarin]] retorna de sua expedição. Se os personagens voltarem do puzzle pela escadaria, eles encontram o [[The Wolf of Yarin]]. Ele está pacífico, não vê ameaça nos personagens. Pergunta o que fazem ali e avisa que essa parte da torre pode ser perigosa. O lobo é o tutor dos magos que eles encontraram antes e mantém o que lhe interessa na torre.
-- [ ] (Gancho) Andarilhos do deserto
+
+- [x] (Gancho) Andarilhos do deserto
       Voltando da torre os personagens encontram um homem puxando um camelo pelas rédeas de um cavalo. Montado no cavalo tem uma pessoa toda coberta de panos para proteger-se do sol. Apenas os olhos estão a mostra. O homem mal pode andar, se esforça ao máximo para dar o próximo passo e pede ajuda quando vê os personagens.
       O homem se apresenta como Allad e diz que não vai mais conseguir seguir viagem. Ele pede para proteger a passageira do cavalo e dá o cavalo como pagamento. Pede para que a levem em segurança para o [[Magani Oasis]] e a entreguem a uma mulher conhecida como [[Nurgi]], a leste do deserto. Ele garante que um bom pagamento será dado.
       *O homem é [[Allad Karim]] e a pessoa coberta é [[(Mishar) Shar Yasmila]]. Ela nunca se apresenta por esse nome e usa um nome falso de Mishar*. 
@@ -42,4 +44,22 @@ Um pensamento vem ligeiro a mente de Jorge. O que eue estou fazendo aqui? O que 
 - [[Black Lotus]] flower at the vault of [[The Wolf of Yarin]]
 - Items na sala do trono na [[Saltstone Tower]]
 ## Session Notes
-- Dormiram descanso
+- Os personagens sabem que os outros integrantes da tribo Hamad que foram com eles na escursão estão mortos. Dariel exumou alguns corpos para que não voltassem.
+- Encontraram o [[The Wolf of Yarin]]. Este contou sobre a maldição de um Rakshasa e deu outras informações, sobre como amuletos poderiam também causar.
+- O [[The Wolf of Yarin]] informou que não teria interesse em amaldiçoar a vila
+- [[Omid of the Hammad Tribe]] salientou mais uma vez que gostaria de ficar e treinar magia com o Lobo. Pediu para que os aventureiros não contassem a sua mãe, mas [[DeBlanc]] disse que contaria.
+- Partiram de lá em direção a vila. Encontraram no caminho o [[Allad Karim]] e a [[(Mishar) Shar Yasmila]] (Ainda com nome de Mishar). Allad informou que precisaria encontrar o [[Magani Oasis]]. Quando chegaram perto da [[Hamad Camp]], disseram que deveriam evitar outras pessoas e seguiram em busca do oasis.
+- Os aventureiros contaram para a vila sobre o que descobriram:
+	- Primeiro contaram a [[Delila of the Hamad Tribe]] sobre o que [[Omid of the Hammad Tribe]] havia decidido. Ela disse que a mãe dele odiaria saber disso e **ficou chateada** por não terem trazido o garoto.
+	- Depois contaram que o [[The Wolf of Yarin]] (mago) contou sobre o demônio Rakshasa. Ela disse que esses assuntos seriam melhor tratados com [[Murjana of the Hamad Tribe]].
+	- Ela contestou muito, porém, o que foi dito, pois acredita que eles foram ludibriados pelo mago.
+	- Segundo, contaram a [[Murjana of the Hamad Tribe]] de uma forma horrível. [[Sable]] primeiro disse que [[Omid of the Hammad Tribe]] havia morrido. Quando ela empaledeceu-se ele voltou atrás e disse que não, que ele estava bem e saudável, mas que havia decidido aprender magia. Nesse momento ela desmaia.
+	- [[Delila of the Hamad Tribe]] leva a irmã para fora da tenda em prol de ajudá-la a se recuperar. Aglomeram-se a população da tribo enquanto [[Murjana of the Hamad Tribe]] retoma a consciência. A discussão se segue e acalora até que:
+		- [[Murjana of the Hamad Tribe]] quase expulsa eles da tribo;
+		- [[Delila of the Hamad Tribe]] quase empunha os combatetentes da tribo contra eles;
+		- Eles informam de forma impactante que existe um demônio na vila;
+		- [[Lios, The bard]] recita a profecia e eles tomam conhecimento;
+		- [[Arlomas of the Salt Lands]] de certa forma ainda acredita neles e recolhe eles em segurança para passarem a noite. Arlomas também oferece um cavalo para [[DeBlanc]], que o aceita.
+		- Na manhã seguinte, eles descobrem que [[Jin, the bone artisan]]. Um NPC suspeito por ser quem fabricava amuletos na tribo, havia sumido com seus pertences.
+## Next Session
+ - Decidiram buscar rastrear [[Jin, the bone artisan]].
