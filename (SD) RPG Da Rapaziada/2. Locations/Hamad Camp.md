@@ -15,13 +15,13 @@ House of a miraculous source of potable water in a vast desert of sand at west a
 ## Extra NPCs
 To use as wildcard
 
-- Nura, Human Chaotic (in debt with [[Remy the merchant]])
-- Endric, Human Lawful (in debt with [[Remy the merchant]])
+- Nura [grupo de batidores que visitou o mago], Human Chaotic (in debt with [[Remy the merchant]])
+- Endric [grupo de batedores que visitou o mago], Human Lawful (in debt with [[Remy the merchant]])
 - [[Jin, the bone artisan]], Human Lawful (THE RAKSHASA)
-- Hana, Human Lawful (owns a map for a big treasure (?))
-- Ikam, Human Neutral (cannot become pregnant)
+- Hana [grupo de omid, desaparecido], Human Lawful (owns a map for a big treasure (?))
+- Ikam [grupo de omid, desaparecido], Human Neutral (cannot become pregnant)
 - [[Lios, The bard]], Human Chaotic (cannot become pregnant)
 - Raan, Human Neutral (cannot become pregnant)
-- Kiara, Human Chaotic (knows the location of a big treasure)
+- Kiara [grupo de omid, desaparecido], Human Chaotic (knows the location of a big treasure)
 - Sorak, Half-Orc very tall, makes puns, (cast out of a wealthy family from [[Alkesh]])
 - [[Yogg Zar of The Sillent Mountains]], Goblin Tattoed with a strange accent (that is hiding as a fugitive)
