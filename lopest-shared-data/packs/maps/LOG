@@ -1,8 +1,17 @@
-2026/01/18-17:12:31.619805 314dd1000 Recovering log #33
-2026/01/18-17:12:31.620829 314dd1000 Delete type=3 #31
-2026/01/18-17:12:31.620944 314dd1000 Delete type=0 #33
-2026/01/18-17:13:32.487267 30e53f000 Level-0 table #38: started
-2026/01/18-17:13:32.487297 30e53f000 Level-0 table #38: 0 bytes OK
-2026/01/18-17:13:32.487554 30e53f000 Delete type=0 #36
-2026/01/18-17:13:32.488047 30e53f000 Manual compaction at level-0 from '!scenes!BMKTZ8SfH6oT72ef' @ 72057594037927935 : 1 .. '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 0 : 0; will stop at (end)
-2026/01/18-17:13:32.488086 30e53f000 Manual compaction at level-1 from '!scenes!BMKTZ8SfH6oT72ef' @ 72057594037927935 : 1 .. '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 0 : 0; will stop at (end)
+2026/09/26-17:30:45.743 16b0 Recovering log #37
+2026/09/26-17:30:45.748 16b0 Delete type=0 #37
+2026/09/26-17:30:45.748 16b0 Delete type=3 #35
+2026/09/26-17:49:13.529 6f60 Level-0 table #42: started
+2026/09/26-17:49:13.533 6f60 Level-0 table #42: 64025 bytes OK
+2026/09/26-17:49:13.535 6f60 Delete type=0 #37
+2026/09/26-17:49:13.535 6f60 Delete type=0 #40
+2026/09/26-17:49:13.536 6f60 Delete type=3 #35
+2026/09/26-17:49:13.536 6f60 Manual compaction at level-0 from '!scenes!BMKTZ8SfH6oT72ef' @ 72057594037927935 : 1 .. '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 0 : 0; will stop at (end)
+2026/09/26-17:49:13.536 6f60 Manual compaction at level-1 from '!scenes!BMKTZ8SfH6oT72ef' @ 72057594037927935 : 1 .. '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 0 : 0; will stop at '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 1784 : 1
+2026/09/26-17:49:13.536 6f60 Compacting 1@1 + 1@2 files
+2026/09/26-17:49:13.541 6f60 Generated table #43@1: 570 keys, 64025 bytes
+2026/09/26-17:49:13.541 6f60 Compacted 1@1 + 1@2 files => 64025 bytes
+2026/09/26-17:49:13.543 6f60 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/26-17:49:13.543 6f60 Delete type=2 #26
+2026/09/26-17:49:13.544 6f60 Delete type=2 #42
+2026/09/26-17:49:13.549 6f60 Manual compaction at level-1 from '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 1784 : 1 .. '!scenes.walls!BMKTZ8SfH6oT72ef.zU0z1nbMHlrzW5wW' @ 0 : 0; will stop at (end)
