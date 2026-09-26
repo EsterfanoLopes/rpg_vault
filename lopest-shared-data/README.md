@@ -22,6 +22,12 @@ This folder contains the Foundry VTT module. Releases are built by the GitHub Ac
 
 The release manifest has a stable URL ending in `/releases/latest/download/module.json`. Its `download` URL points to the version-specific `module.zip` for the tag. Foundry can use the stable manifest URL to check for and install newer versions; users can also install by entering that manifest URL in Foundry's module installer.
 
+### Refreshing the module after a release
+
+After a new release is published, refresh the module in Foundry using the stable manifest URL as you would when installing it for the first time. In the Setup screen, open **Add-on Modules → Install Module**, enter the manifest URL, and install/update the package. Once the world is open, go to **Game Settings → Manage Modules** and make sure **Lopest Shared Data** is enabled; enable it again if it is no longer active.
+
+Do not delete the module folder manually before refreshing it. Foundry's documented update flow checks the installed version against the manifest and downloads the newer package when one is available. Reinstalling from the manifest is the manual refresh procedure for this module; in general, Foundry's normal package update flow does not require uninstalling and reinstalling a module or toggling it off and on.
+
 For a package listed in Foundry's official package browser, configure the package's version entry in Foundry's Package Management page to use the appropriate release manifest URL and version. Publishing a GitHub Release alone does not add the module to Foundry's official package listing.
 
 ## Important notes

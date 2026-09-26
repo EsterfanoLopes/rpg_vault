@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b46d317cdd5400",
+  "active": "7939b2ab095f37d4",
   "lastOpenFiles": [
+    "README.md",
     "lopest-shared-data/packs/roll-tables/MANIFEST-000042",
     "lopest-shared-data/packs/roll-tables/000044.log",
     "lopest-shared-data/packs/players/MANIFEST-000016",
@@ -191,7 +192,6 @@
     "lopest-shared-data/packs/monsters/000042.ldb",
     "lopest-shared-data/packs/maps/MANIFEST-000044",
     "lopest-shared-data/packs/maps/000048.ldb",
-    "lopest-shared-data/packs/maps/000046.log",
     "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp",
     "lopest-shared-data/assets/locales/western-reaches/region/the-djurum.jpg",
     "lopest-shared-data/assets/players/silas.jpeg",
