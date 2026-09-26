@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rhayla",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3298d489ea321b01",
+  "active": "65b46d317cdd5400",
   "lastOpenFiles": [
     "lopest-shared-data/packs/roll-tables/MANIFEST-000042",
     "lopest-shared-data/packs/roll-tables/000044.log",
