@@ -179,8 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3298d489ea321b01",
+  "active": "7939b2ab095f37d4",
   "lastOpenFiles": [
+    "lopest-shared-data/assets/locations/western-reaches-a0.jpg",
+    "lopest-shared-data/assets/locations/Western Reaches GM Map A0.jpg",
+    "lopest-shared-data/assets/locations",
+    "lopest-shared-data/assets/New folder",
     "lopest-shared-data/README.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-06-07 To the sorcerer's tower 5.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
@@ -206,7 +210,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Sabriel.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Raklin.md",
     "(SD) Joguinhos do ProxFDS/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "(SD) RPG Da Rapaziada/2. Locations/attachments/camping-fasttrravel.png",
     "lopest-shared-data/assets/players/ary.jpeg",
@@ -218,15 +221,12 @@
     "lopest-shared-data/packs/players/CURRENT",
     "lopest-shared-data/packs/players/000008.log",
     "lopest-shared-data/packs/players",
-    "lopest-shared-data/packs/macros/MANIFEST-000032",
-    "lopest-shared-data/packs/macros/000034.log",
     "lopest-shared-data/assets/players/silas.jpeg",
     "lopest-shared-data/assets/players/kippy.jpeg",
     "lopest-shared-data/assets/players/merg.jpg",
     "lopest-shared-data/assets/players/gund.jpeg",
     "lopest-shared-data/assets/players/erin.jpeg",
     "lopest-shared-data/assets/saltstone-tower.webp",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/attachments/bailon_the_beardless.png.png",
     "Untitled.canvas"
   ]
 }
