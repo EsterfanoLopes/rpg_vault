@@ -179,8 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7939b2ab095f37d4",
+  "active": "3298d489ea321b01",
   "lastOpenFiles": [
+    "lopest-shared-data/assets/players/silas.jpeg",
+    "lopest-shared-data/assets/players/merg.jpg",
+    "lopest-shared-data/assets/players/kippy.jpeg",
+    "lopest-shared-data/assets/players/gund.jpeg",
+    "lopest-shared-data/assets/players/erin.jpeg",
+    "lopest-shared-data/assets/players/ary.jpeg",
+    "lopest-shared-data/assets/players",
+    "lopest-shared-data/assets/locales/western-reaches/western-reaches-a0.jpg",
+    "lopest-shared-data/assets/locales/western-reaches/4464-saltstone-tower.webp",
+    "lopest-shared-data/assets/locales/western-reaches",
+    "lopest-shared-data/assets/locales",
     "lopest-shared-data/assets/locations/western-reaches-a0.jpg",
     "lopest-shared-data/assets/locations/Western Reaches GM Map A0.jpg",
     "lopest-shared-data/assets/locations",
@@ -211,22 +222,11 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
     "(SD) Joguinhos do ProxFDS/Locations/Attachments/taroduns-tomb-patreon.jpg",
-    "(SD) RPG Da Rapaziada/2. Locations/attachments/camping-fasttrravel.png",
-    "lopest-shared-data/assets/players/ary.jpeg",
     "lopest-shared-data/packs/players/MANIFEST-000006",
     "lopest-shared-data/packs/players/LOG.old",
     "lopest-shared-data/packs/players/000010.ldb",
     "lopest-shared-data/packs/players/LOG",
     "lopest-shared-data/packs/players/LOCK",
-    "lopest-shared-data/packs/players/CURRENT",
-    "lopest-shared-data/packs/players/000008.log",
-    "lopest-shared-data/packs/players",
-    "lopest-shared-data/assets/players/silas.jpeg",
-    "lopest-shared-data/assets/players/kippy.jpeg",
-    "lopest-shared-data/assets/players/merg.jpg",
-    "lopest-shared-data/assets/players/gund.jpeg",
-    "lopest-shared-data/assets/players/erin.jpeg",
-    "lopest-shared-data/assets/saltstone-tower.webp",
     "Untitled.canvas"
   ]
 }
