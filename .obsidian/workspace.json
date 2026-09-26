@@ -181,6 +181,10 @@
   },
   "active": "3298d489ea321b01",
   "lastOpenFiles": [
+    "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp",
+    "lopest-shared-data/assets/locales/western-reaches/hex",
+    "lopest-shared-data/assets/locales/western-reaches/region/the-djurum.jpg",
+    "lopest-shared-data/assets/locales/western-reaches/region",
     "lopest-shared-data/assets/players/silas.jpeg",
     "lopest-shared-data/assets/players/merg.jpg",
     "lopest-shared-data/assets/players/kippy.jpeg",
@@ -193,7 +197,6 @@
     "lopest-shared-data/assets/locales/western-reaches",
     "lopest-shared-data/assets/locales",
     "lopest-shared-data/assets/locations/western-reaches-a0.jpg",
-    "lopest-shared-data/assets/locations/Western Reaches GM Map A0.jpg",
     "lopest-shared-data/assets/locations",
     "lopest-shared-data/assets/New folder",
     "lopest-shared-data/README.md",
@@ -221,12 +224,9 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Sabriel.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Wolf of Yarin.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
-    "(SD) Joguinhos do ProxFDS/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "lopest-shared-data/packs/players/MANIFEST-000006",
     "lopest-shared-data/packs/players/LOG.old",
     "lopest-shared-data/packs/players/000010.ldb",
-    "lopest-shared-data/packs/players/LOG",
-    "lopest-shared-data/packs/players/LOCK",
     "Untitled.canvas"
   ]
 }
