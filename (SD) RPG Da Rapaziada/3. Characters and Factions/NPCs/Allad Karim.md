@@ -10,7 +10,7 @@
 
 **Ideals:** Athletic, Law. 
 **Flaws:** Brute, Rude. 
-**Bonds:** Famiulia Shar, [[Alkesh]]. 
+**Bonds:** Família Shar, [[Alkesh]]. 
 **Occupation:** Guarda
 
 **Voice:** Fala grosso e pausadamente
