@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "488cbbc3e283be61",
+        "id": "5145c3e16003241d",
         "type": "tabs",
         "children": [
           {
-            "id": "7939b2ab095f37d4",
+            "id": "25c8a420d653abc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/1. Session Notes/2026-09-26 Em busca de Jin, the bone artisan.md",
+                "file": "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-26 Em busca de Jin, the bone artisan"
-            }
-          },
-          {
-            "id": "ba8c0da687c6d592",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "2026-10-18 - Exploring the Barrow Mounds"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba8c0da687c6d592",
+  "active": "25c8a420d653abc0",
   "lastOpenFiles": [
-    "Wadim's Thieves.md",
+    "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
+    "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
+    "(SD) The Western Reaches/1. Session Notes/attachments",
+    "(SD) RPG Da Rapaziada/1. Session Notes/attachments/The Djurum Desert Campaign Intro.pdf",
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-09-26 Em busca de Jin, the bone artisan.md",
+    "(SD) The Western Reaches/3. Characters and Factions",
+    "(SD) The Western Reaches/2. Locations",
+    "(SD) The Western Reaches/Untitled.md",
+    "(SD) The Western Reaches/1. Session Notes",
+    "(SD) The Western Reaches",
+    "Wadim's Thieves.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Wadin Thieves.md",
     "Templates/Facção.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Facção 1.md",
@@ -220,12 +216,6 @@
     "lopest-shared-data/packs/roll-tables/000044.log",
     "lopest-shared-data/packs/players/MANIFEST-000016",
     "lopest-shared-data/packs/players/000018.log",
-    "lopest-shared-data/packs/players/000015.ldb",
-    "lopest-shared-data/packs/monsters/MANIFEST-000043",
-    "lopest-shared-data/packs/monsters/000045.log",
-    "lopest-shared-data/packs/monsters/000042.ldb",
-    "lopest-shared-data/packs/maps/MANIFEST-000044",
-    "lopest-shared-data/packs/maps/000048.ldb",
     "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp",
     "lopest-shared-data/assets/locales/western-reaches/region/the-djurum.jpg",
     "lopest-shared-data/assets/players/silas.jpeg",
@@ -239,9 +229,6 @@
     "lopest-shared-data/README.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/The Hamad Tribe.md",
-    "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
-    "(SD) RPG Da Rapaziada/2. Locations/Alkesh.md",
-    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
     "Untitled.canvas"
   ]
 }
