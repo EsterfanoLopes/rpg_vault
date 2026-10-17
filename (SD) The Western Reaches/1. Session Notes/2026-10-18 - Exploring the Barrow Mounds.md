@@ -8,7 +8,7 @@
 ## Strong Start
 Running the adventure [_The Cursed Knights of Crestmoor_](https://lowkeyttrpg.itch.io/the-cursed-knights-of-crestmoor)
 
-A distinct group of crawlers is walking through the humid, swampish Barrow Mounds, in a region of The Western Reaches known as "[[The Gloaming]]". These adventures are seeking for the entrance of an old and forgotten tomb. They were informed that the location were discovered because bands of kobolds incoming from the region where causing problems. Scouts identified and came back to inform at [[Marin's Hold]]. Fortunately, the party was available and informed that are evidence of a certain tomb in which may contain valuable treasure inside.
+A distinct group of crawlers is walking through the humid, swampish [[Barrow Mounds]], in a region of The Western Reaches known as "[[The Gloaming]]". These adventures are seeking for the entrance of an old and forgotten tomb. They were informed that the location were discovered because bands of kobolds incoming from the region where causing problems. Scouts identified and came back to inform at [[Marin's Hold]]. Fortunately, the party was available and informed that are evidence of a certain tomb in which may contain valuable treasure inside.
 
 The day is very clouded and little sunlight come though the heavy clouds, weather which is common at [[The Gloaming]]. As approaching the given location, at distance the group see 
 smoke raising through the contorted trees. From the woods, the group can see at distance two kobolds close to a fireplace. Looks like they are cooking something. This is a strong signal, the entrance may be close.
@@ -30,7 +30,10 @@ smoke raising through the contorted trees. From the woods, the group can see at 
 - [ ] [[Gallen's Fireblade]] is a magical sword with dragon fire imbued in it and was buried with the owner to never be found again
 - [ ] A sacred fountain of limpid water flows though the cataboms
 - [ ] The tomb of [[Sir Galen]] is protected by traps and subtefurge
- 
+
+## Fantastic Locations
+- [[The Gloaming]]
+- [[Barrow Mounds]] (CS1 #910)
 ## Notable NPCs
 - [[Nora Greymoss]]
 - [[Dagris, The Kobold Prince]]
