@@ -4,7 +4,7 @@
 - Julia
 - Nicholas
 ## Characters
-- 
+- https://slyflourish.com/two_minute_session_zero.html
 ## Strong Start
 Running the adventure [_The Cursed Knights of Crestmoor_](https://lowkeyttrpg.itch.io/the-cursed-knights-of-crestmoor)
 
