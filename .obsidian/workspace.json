@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-09-26 Em busca de Jin, the bone artisan"
             }
+          },
+          {
+            "id": "ba8c0da687c6d592",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7939b2ab095f37d4",
+  "active": "ba8c0da687c6d592",
   "lastOpenFiles": [
     "Wadim's Thieves.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-09-26 Em busca de Jin, the bone artisan.md",
