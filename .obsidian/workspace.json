@@ -25,12 +25,14 @@
             "id": "5e83d6221c9eb86d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "icon": "lucide-file",
+              "title": "2026-10-18 - Exploring the Barrow Mounds"
             }
           }
         ],
