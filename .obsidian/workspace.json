@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-10-18 - Exploring the Barrow Mounds"
             }
+          },
+          {
+            "id": "5e83d6221c9eb86d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c8a420d653abc0",
+  "active": "5e83d6221c9eb86d",
   "lastOpenFiles": [
     "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
     "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
