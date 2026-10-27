@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5145c3e16003241d",
+        "id": "8ec4f7887e6db618",
         "type": "tabs",
         "children": [
           {
-            "id": "25c8a420d653abc0",
+            "id": "4eaa1a959257ae03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c8a420d653abc0",
+  "active": "4eaa1a959257ae03",
   "lastOpenFiles": [
+    "README.md",
     "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
     "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
     "Ideas/Navigator.md",
@@ -212,7 +213,6 @@
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Scourge.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Yogg Zar of The Sillent Mountains.md",
     "(SD) RPG Da Rapaziada/1. Session Notes/2026-06-07 To the sorcerer's tower 5.md",
-    "README.md",
     "lopest-shared-data/packs/roll-tables/MANIFEST-000042",
     "lopest-shared-data/packs/roll-tables/000044.log",
     "lopest-shared-data/packs/players/MANIFEST-000016",
