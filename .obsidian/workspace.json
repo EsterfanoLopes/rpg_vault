@@ -11,14 +11,10 @@
             "id": "6fe6eb860f17d412",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -181,8 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fe6eb860f17d412",
+  "active": "3298d489ea321b01",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
     "README.md",
     "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
@@ -217,7 +217,6 @@
     "lopest-shared-data/packs/roll-tables/MANIFEST-000042",
     "lopest-shared-data/packs/roll-tables/000044.log",
     "lopest-shared-data/packs/players/MANIFEST-000016",
-    "lopest-shared-data/packs/players/000018.log",
     "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp",
     "lopest-shared-data/assets/locales/western-reaches/region/the-djurum.jpg",
     "lopest-shared-data/assets/players/silas.jpeg",
@@ -227,8 +226,6 @@
     "lopest-shared-data/assets/players/erin.jpeg",
     "lopest-shared-data/assets/players/ary.jpeg",
     "lopest-shared-data/assets/locales/western-reaches/western-reaches-a0.jpg",
-    "lopest-shared-data/assets/locales/western-reaches/4464-saltstone-tower.webp",
-    "lopest-shared-data/README.md",
-    "Untitled.canvas"
+    "lopest-shared-data/assets/locales/western-reaches/4464-saltstone-tower.webp"
   ]
 }
