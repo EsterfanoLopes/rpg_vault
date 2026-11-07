@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec4f7887e6db618",
+        "id": "58e109e671ca2e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "4eaa1a959257ae03",
+            "id": "6fe6eb860f17d412",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eaa1a959257ae03",
+  "active": "6fe6eb860f17d412",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/1. Session Notes/2025-11-09 Chapter 1. The Djurum.md",
     "README.md",
     "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
     "Templates/YYYY-MM-DD Campaign Session Notes 1.md",
@@ -228,7 +229,6 @@
     "lopest-shared-data/assets/locales/western-reaches/western-reaches-a0.jpg",
     "lopest-shared-data/assets/locales/western-reaches/4464-saltstone-tower.webp",
     "lopest-shared-data/README.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Arlomas of the Salt Lands.md",
     "Untitled.canvas"
   ]
 }
