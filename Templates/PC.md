@@ -1,4 +1,11 @@
-#pc #template 
+---
+tags:
+  - pc
+  - template
+player:
+dead: false
+creation:
+---
 ## Summary
 **Player:**
 **Ancestry:** 

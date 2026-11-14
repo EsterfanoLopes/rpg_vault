@@ -1,4 +1,12 @@
-#faction 
+---
+tags:
+  - faction
+---
+# Name
 
-## Objetivos
-- [ ] 
+# Members
+
+# Goals
+- [ ] a
+- [ ] b
+- [ ] c
