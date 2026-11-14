@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(SD) The Western Reaches/1. Session Notes/2026-11-21 - Exploring the Barrow Mounds 2.md",
+                "file": "(SD) The Western Reaches/2. Locations/Marin's Hold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-21 - Exploring the Barrow Mounds 2"
+              "title": "Marin's Hold"
+            }
+          },
+          {
+            "id": "92edf0e1bd6ca5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(SD) The Western Reaches/2. Locations/Marin's Hold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marin's Hold"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.6551513671875
+    "width": 311.32763671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +196,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45adf75fe0104d46",
+  "active": "92edf0e1bd6ca5d1",
   "lastOpenFiles": [
-    "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
+    "(SD) The Western Reaches/3. Characters and Factions/NPC/Lord Reeve Tarley Winters.md",
+    "(SD) The Western Reaches/2. Locations/Marin's Hold.md",
+    "(SD) The Western Reaches/3. Characters and Factions/NPC/attachments/lord-reeve-tarley-hunt.png",
+    "(SD) The Western Reaches/3. Characters and Factions/NPC/attachments",
+    "Templates/NPCs.md",
+    "(SD) The Western Reaches/2. Locations/attachments/1108-marins-hold.webp",
+    "(SD) The Western Reaches/2. Locations/attachments",
+    "Templates/Location.md",
+    "(SD) RPG Da Rapaziada/2. Locations/Magani Oasis.md",
+    "(SD) RPG Da Rapaziada/2. Locations/Hex Exploration - Official (Beta).md",
+    "(SD) RPG Da Rapaziada/2. Locations/Hamad Camp.md",
+    "(SD) RPG Da Rapaziada/2. Locations/Alkesh.md",
     "(SD) The Western Reaches/1. Session Notes/2026-11-21 - Exploring the Barrow Mounds 2.md",
+    "(SD) The Western Reaches/1. Session Notes/2026-10-18 - Exploring the Barrow Mounds.md",
     "(SD) The Western Reaches/3. Characters and Factions/PC/Aelis Fen.md",
     "(SD) The Western Reaches/3. Characters and Factions/PC/Greg.md",
     "Untitled.base",
@@ -209,17 +236,7 @@
     "(SD) The Western Reaches/3. Characters and Factions",
     "(SD) The Western Reaches/2. Locations",
     "(SD) The Western Reaches/Untitled.md",
-    "(SD) The Western Reaches/1. Session Notes",
-    "(SD) The Western Reaches",
     "Wadim's Thieves.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Wadin Thieves.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Facção 1.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Ras-Godai.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Servos da chama eterna.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Shar de Alkesh.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Murjana of the Hamad Tribe.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Nurgi.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/Delila of the Hamad Tribe.md",
     "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp",
     "lopest-shared-data/assets/locales/western-reaches/region/the-djurum.jpg",
     "lopest-shared-data/assets/players/silas.jpeg",
@@ -227,8 +244,6 @@
     "lopest-shared-data/assets/players/kippy.jpeg",
     "lopest-shared-data/assets/players/gund.jpeg",
     "lopest-shared-data/assets/players/erin.jpeg",
-    "lopest-shared-data/assets/players/ary.jpeg",
-    "lopest-shared-data/assets/locales/western-reaches/western-reaches-a0.jpg",
-    "lopest-shared-data/assets/locales/western-reaches/4464-saltstone-tower.webp"
+    "lopest-shared-data/assets/players/ary.jpeg"
   ]
 }
