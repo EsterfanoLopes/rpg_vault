@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2b2ea0906ac76f",
+        "id": "73a342f5ad42cb41",
         "type": "tabs",
         "children": [
           {
-            "id": "782161ea5303fbac",
+            "id": "722d1c52c74058ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,7 +140,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Medic.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -178,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b46d317cdd5400",
+  "active": "3298d489ea321b01",
   "lastOpenFiles": [
+    "Ideas/Medic.md",
     "Ideas/Lookout.md",
     "Ideas/Forager.md",
     "Ideas/Cartographer.md",
@@ -206,7 +206,6 @@
     "Templates/YYYY.MM.DD - Campaign Session Notes 1.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Lana.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Octuz.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/DeBlanc.md",
     "Untitled.base",
     "Untitled.canvas",
     "(SD) The Western Reaches/2. Locations/attachments/1108-marins-hold/watabou-city-generator.json",
