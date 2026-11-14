@@ -19,11 +19,13 @@ Tips for acting as this character.
 
 _Picture, if any_
 # Description
+
+```
 Description of the particularities of this NPC.
 - Who they is, where they come from?
 - Physical description. Height, hair color, eye color, any physical particularity, how they dress.
 - What do they do?
-
+```
 # Faction
 Does this NPC is part of a faction? What is it role in it?
 

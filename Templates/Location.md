@@ -8,8 +8,10 @@ hex: 1110
 ![[(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg]]
 
 Include both a marked up and blank version of the map.
-## Summary
+## Description
+```
 Here's some info about the location. How it started, what is it importance to the region? What is it's story? How is the government looks like? How many habitants? What can you find here?
+```
 # Inhabitants
 * a list of inhabitants
 # Downtime Activities
