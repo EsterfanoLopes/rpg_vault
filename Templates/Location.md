@@ -1,5 +1,6 @@
 ---
 tags:
+  - location
   - template
 source: CS2
 hex: 1110

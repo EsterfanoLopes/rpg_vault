@@ -1,6 +1,8 @@
 ---
 tags:
   - faction
+  - template
+source:
 ---
 # Description
 ```

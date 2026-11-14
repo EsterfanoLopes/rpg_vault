@@ -5,6 +5,8 @@
     "tags": "tags",
     "hex": "number",
     "dead": "checkbox",
-    "creation": "date"
+    "creation": "date",
+    "Last Updated": "datetime",
+    "Played": "date"
   }
 }
