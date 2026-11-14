@@ -1,7 +1,6 @@
 ---
 tags:
   - npc
-  - template
 source:
 dead: false
 ---

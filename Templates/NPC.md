@@ -10,6 +10,7 @@ dead: false
 **Occupation:**
 **Age:**
 **Faction:**
+**Location:** 
 ## Acting
 https://www.kassoon.com/dnd/npc-generator/
 Tips for acting as this character.

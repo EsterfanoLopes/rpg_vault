@@ -18,16 +18,18 @@ other warily, and the gossips at The Crayfish Tavern wonder who will be accused 
 After the demon attack, [[Lord Reeve Tarley Winters]] believes that sorcery attracts demons. Three women were recently burned alive for suspected witchcraft. Anything that remotely resembles magic could illicit the harshest of punishments.
 ## Inhabitants
 * [[Lord Reeve Tarley Winters]] - Leader and head of government, Authority
-* [[Tarin Denan]] - "Chiurgeon" and physicist
+* [[Tarin Denan]] - "Cirurgeon" and physicist
 * [[Malchor Iriol]] - A trapper that sells basic gear
 * [[Kiara Cyrg]] - Local healer and potion seller
 * [[Regina Pence]] - Tailor and co-owner of Wares for a Pence
 * [[Mariel Pence]] - Tradeswoman and co-owner of Wares for a Pence
-
+* [[Precy Ivtin]] - Halfling Floriculturist
+* [[Nora Greymoss]] - Inn owner
+* [[Rudy Greymoss]] - Inn owner
 ## Downtime Activities
-- **Carousing** - 600gp
-- **Acts of Devotion** - 100gp
-- **Combat Training -** 300gp
+- **Carousing** - 600 GP
+- **Acts of Devotion** - 100 GP
+- **Combat Training -** 300 GP
 - **Magical Study -** Fordbidden
 # Districts
 ## 1. Crow's Barrow
@@ -41,7 +43,7 @@ Healing magic, like all magic is strictly forbidden in Marin's Hold, which has a
 ## 2. Mudbend Row
 Frequented by travelers and merchants, most people visit Mudbend once a day, whether to stop by the tavern or purchase a new blouse.
 ### c. The Crayfish Tavern
-A haunt for traveling merchants and those passing through the Gloaming. It's not luxurious, but it's the best tavern The Gloaming has to offer.
+A haunt for traveling merchants and those passing through the Gloaming. It's not luxurious, but it's the best tavern The Gloaming has to offer. Owned by [[Nora Greymoss]] and [[Rudy Greymoss]]
 #### Lodging
 | Period  | Price |
 | ------- | ----- |
