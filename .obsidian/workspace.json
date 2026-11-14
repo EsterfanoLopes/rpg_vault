@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "73a342f5ad42cb41",
+        "id": "8cd515e0f1121617",
         "type": "tabs",
         "children": [
           {
-            "id": "722d1c52c74058ca",
+            "id": "4b6d80ee2bcb8521",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Boss.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Boss"
             }
           }
         ]
@@ -140,6 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Boss.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -177,8 +182,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3298d489ea321b01",
+  "active": "65b46d317cdd5400",
   "lastOpenFiles": [
+    "(SD) RPG Da Rapaziada/2. Locations/Magani Oasis.md",
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Boss.md",
+    "(SD) RPG Da Rapaziada/2. Locations/The lost citadel of the scarlet minotaur.md",
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Ras-Godai.md",
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Servos da chama eterna.md",
+    "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Shar de Alkesh.md",
+    "README.md",
+    "lopest-shared-data/README.md",
+    "(SD) Joguinhos do ProxFDS/Locations/Attachments/taroduns-tomb-patreon.jpg",
+    "(SD) Joguinhos do ProxFDS/Characters.md",
+    "(SD) Joguinhos do ProxFDS/NPCs.md",
+    "Templates/NPC.md",
     "Ideas/Medic.md",
     "Ideas/Lookout.md",
     "Ideas/Forager.md",
@@ -191,21 +208,10 @@
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Nora Greymoss.md",
     "(SD) The Western Reaches/2. Locations/Marin's Hold.md",
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Precy Ivtin.md",
-    "Templates/NPC.md",
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Tarin Denan.md",
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Kiara Cyrg.md",
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Lord Reeve Tarley Winters.md",
-    "(SD) The Western Reaches/3. Characters and Factions/NPC/Malchor Iriol.md",
-    "(SD) The Western Reaches/3. Characters and Factions/NPC/Mariel Pence.md",
-    "(SD) The Western Reaches/3. Characters and Factions/NPC/Regina Pence.md",
     "(SD) The Western Reaches/2. Locations/attachments/1108-marins-hold/view.webp",
-    "Templates/PC.md",
-    "2026-11-14.md",
-    "Templates/Faction.md",
-    "Templates/Location.md",
-    "Templates/YYYY.MM.DD - Campaign Session Notes 1.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Lana.md",
-    "(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Octuz.md",
     "Untitled.base",
     "Untitled.canvas",
     "(SD) The Western Reaches/2. Locations/attachments/1108-marins-hold/watabou-city-generator.json",
@@ -225,7 +231,6 @@
     "Untitled 1.canvas",
     "(SD) The Western Reaches/1. Session Notes/attachments",
     "(SD) RPG Da Rapaziada/1. Session Notes/attachments/The Djurum Desert Campaign Intro.pdf",
-    "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp",
-    "lopest-shared-data/assets/locales/western-reaches/region/the-djurum.jpg"
+    "lopest-shared-data/assets/locales/western-reaches/hex/4464-saltstone-tower.webp"
   ]
 }
