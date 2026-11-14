@@ -6,13 +6,13 @@ dead: false
 ---
 # Summary
 **Ancestry:** Human
-**Occupation:** Militar, Governor
+**Occupation:** Military, Governor
 **Age:** 55
 **Faction:** [[Lords of the Wood]]
 
 ## Acting
-- **Inspiration:** 
-- **Voice:** 
+- **Inspiration:** Old general. Hank, breaking bad
+- **Voice:** Elderly
 - **Personality:** He tends to agree with only himself unless someone else's opinion sounds like he can profit from it. He tries to control his temper but he can't always stop himself from what he feels what must be done. He has a minor phobia of water and hates getting wet.
 - **Ideals:** 
 - **Flaws:** Antagonistic, Fearful
@@ -28,15 +28,11 @@ The child of founders of the Knight of St. Ydris, he idolized his mother. His fi
 ## Factions
 - [[Lords of the Wood]]
 # Quest-lines and Goals
-*select when it was accomplished. Strikethrough when it is not possible anymore*
-- [ ] First Goal
-- [ ] Second Goal
-- [ ] Third Goal
+*select when it was accomplished. Strike-through when it is not possible anymore*
+- [ ] Protect [[Marin's Hold]] from the dangerous creatures of the woods
+- [ ] See [[Marin's Hold]] pervail
+- [ ] Eliminate Sorcerers and Witches that brings the curse to [[The Gloaming]]
 # Secrets
 *select when the players knows about it*
-- [ ] First Secret
-- [ ] Second Secret
-- [ ] Third Secret
-## Goals
-- [ ] Protect [[Marin's Hold]]
-- [ ] To hunt and kill magicians and sorcerers
+- [ ] He was cured, when a child, by a witch from a terminal disease. It marked his back, but made him sensible to water
+- [ ] He is sensible to water
