@@ -30,7 +30,7 @@ The child of founders of the Knight of St. Ydris, he idolized his mother. His fi
 # Quest-lines and Goals
 *select when it was accomplished. Strike-through when it is not possible anymore*
 - [ ] Protect [[Marin's Hold]] from the dangerous creatures of the woods
-- [ ] See [[Marin's Hold]] pervail
+- [ ] See [[Marin's Hold]] prevail
 - [ ] Eliminate Sorcerers and Witches that brings the curse to [[The Gloaming]]
 # Secrets
 *select when the players knows about it*
