@@ -1,14 +1,14 @@
 #hex 
-
+# Summary
 **Source:** CS1 [Hex 1108]
-# Info
-![[1108-marins-hold.webp]]
+
+![[view.webp]]
+![[map.png]]
 
 300 fisherfolk live in a motte-and-bailey hold where the river meets the bog. A palisade surrounds the village, and Reeve **Tarley Winters** resides in the keep atop a hill with 30 guards. The village is still recovering from an attack by six skrell demons who breached the palisade and slew 20 souls.
 Winters believes sorcery attracts the demons, and he recentlyhad three women burned alive on Boot Hill (1205) for suspected witchcraft. Villagers eye each
 other warily, and the gossips at The Crayfish Tavern wonder who will be accused next.
-
-### Punishable by Death
+## Punishable by Death
 After the demon attack, [[Lord Reeve Tarley Winters]] believes that sorcery attracts demons. Three women were recently burned alive for suspected witchcraft. Anything that remotely resembles magic could illicit the harshest of punishments.
 ## Inhabitants
 * [[Lord Reeve Tarley Winters]] - Leader and head of government, Authority
@@ -20,10 +20,33 @@ After the demon attack, [[Lord Reeve Tarley Winters]] believes that sorcery attr
 - **Magical Study -** Fordbidden
 ## Locations
 ### Crow's Barrow
-
+A simple wooden construction close to the central plaza of the city that offers "cure" for the body and mind.
 #### Gambling Den
 The sounds of dice rolling fill the air in the dark den, lit only by candlelight. While the wilds are notably filled with monsters and bandits, plenty of both can be found in here as well.
 #### Bloodletter
 Healing magic, like all magic is strictly forbidden in Marin's Hold, which has allowed the chiurgeon, [[Tarin Denan]], to thrive as a bloodletter. Wether it's fever or the genital pox, bleeding out the sickness is the only cure now...
+### Mudbend Row
+Frequented by travelers and merchants, most people visit Mudbend once a day, whether to stop by the tavern or purchase a new blouse.
+#### The Crayfish Tavern
+A haunt for traveling merchants and those passing through the Gloaming. It's not luxurious, but it's the best tavern The Gloaming has to offer.
+
+##### Lodging
+| Period  | Price |
+| ------- | ----- |
+| 1 Night | 6 SP  |
+| 1 Week  | 7 GP  |
+##### Food
+| Food                 | Price |
+| -------------------- | ----- |
+| Bitter Fruit Salad   | 1cp   |
+| Roast Crocodile Feet | 4sp   |
+| Grilled Boar Loin    | 5sp   |
+##### Drinks
+| Drink             | Price | Effect                                           |
+| ----------------- | ----- | ------------------------------------------------ |
+| Caliban's Cream   | 2cp   | Occasional hacking cough for 3d4 hours.          |
+| Kobold Cobalt     | 3sp   | Turns the hands, feet, and eyes blue for 2 hours |
+| Filbert's Philter | 1gp   | +1 INT for 2 hours.                              |
+#### Skin of their Teeth
 ## Random Encounters
 1. Should you need them, a list of random encounters
