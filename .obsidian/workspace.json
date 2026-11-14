@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Boss.md",
+                "file": "(SD) RPG Da Rapaziada/2. Locations/Saltstone Flats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Boss"
+              "title": "Saltstone Flats"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Boss.md",
+                "file": "(SD) RPG Da Rapaziada/2. Locations/Saltstone Flats.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -184,8 +184,9 @@
   },
   "active": "65b46d317cdd5400",
   "lastOpenFiles": [
-    "(SD) RPG Da Rapaziada/2. Locations/Magani Oasis.md",
+    "(SD) RPG Da Rapaziada/2. Locations/Saltstone Flats.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/NPCs/The Boss.md",
+    "(SD) RPG Da Rapaziada/2. Locations/Magani Oasis.md",
     "(SD) RPG Da Rapaziada/2. Locations/The lost citadel of the scarlet minotaur.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Ras-Godai.md",
     "(SD) RPG Da Rapaziada/3. Characters and Factions/factions/Servos da chama eterna.md",
@@ -210,7 +211,6 @@
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Precy Ivtin.md",
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Tarin Denan.md",
     "(SD) The Western Reaches/3. Characters and Factions/NPC/Kiara Cyrg.md",
-    "(SD) The Western Reaches/3. Characters and Factions/NPC/Lord Reeve Tarley Winters.md",
     "(SD) The Western Reaches/2. Locations/attachments/1108-marins-hold/view.webp",
     "Untitled.base",
     "Untitled.canvas",
