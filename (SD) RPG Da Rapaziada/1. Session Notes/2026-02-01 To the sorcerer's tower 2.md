@@ -1,7 +1,7 @@
 ## Characters
 - [x] [[Dariel]] - Human Priest in search of ?
 - [x] [[DeBlanc]] - Half Orc Paladin with an oath for truth
-- [ ] [[Greg]] - Human pit fighter Truco player
+- [ ] [[(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Greg]] - Human pit fighter Truco player
 - [x] [[Jorge A]] - Elf Warrior In search of ?
 - [x] [[Lana]] - Half Orc warrior in search of her brother
 - [ ] [[Octuz]] - Human wizard which knows many things about desert people

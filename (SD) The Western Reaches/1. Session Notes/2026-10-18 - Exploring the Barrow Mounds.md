@@ -1,9 +1,11 @@
 ## Players
+Brenno, Hanna, Julia, Nicholas
+## Characters
 - (Brenno) Aelis Fen, a thief in search of proofing yourself
 - (Hanna) Yriel, a Bulky elf Fither 
 - (Julia) Martin, a human thief in search of becoming rich!
 - (Nicholas) Greg, a human wizard in search of knowledge
-## Characters
+
 - https://slyflourish.com/two_minute_session_zero.html
 ## Strong Start
 Running the adventure [_The Cursed Knights of Crestmoor_](https://lowkeyttrpg.itch.io/the-cursed-knights-of-crestmoor)

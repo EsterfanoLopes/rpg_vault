@@ -28,4 +28,4 @@ Humano, 170cm bem magro, com roupas pequenas e apertadas, com uma armadura de co
 - [ ] ~~Bring magical items back so they can be declared free from the mage~~
 
 ## Campfire stories
-- Played Truco with [[Raklin]] as partner. Won from [[Greg]] and [[Sable]]
+- Played Truco with [[Raklin]] as partner. Won from [[(SD) RPG Da Rapaziada/3. Characters and Factions/PCs/Greg]] and [[Sable]]
