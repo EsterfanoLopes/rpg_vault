@@ -5,7 +5,7 @@ tags:
 source: CS2
 hex: 1110
 ---
-# Name
+# Information
 ![[(SD) RPG Da Rapaziada/2. Locations/attachments/taroduns-tomb-patreon.jpg]]
 
 Include both a marked up and blank version of the map.

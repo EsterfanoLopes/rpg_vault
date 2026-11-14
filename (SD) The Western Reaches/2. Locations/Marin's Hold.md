@@ -1,14 +1,20 @@
-#hex 
-# Summary
-**Source:** CS1 [Hex 1108]
-
+---
+tags:
+  - location
+source: CS1
+hex: 1108
+---
+# Information
 ![[view.webp]]
 ![[map.png]]
 
+## Description
+```
 The 's 300 fisherfolk live in a motte-and-bailey hold where the river meets the bog. A palisade surrounds the village, and Reeve **Tarley Winters** resides in the keep atop a hill with 30 guards. The village is still recovering from an attack by six skrell demons who breached the palisade and slew 20 souls.
 Winters believes sorcery attracts the demons, and he recentlyhad three women burned alive on Boot Hill (1205) for suspected witchcraft. Villagers eye each
 other warily, and the gossips at The Crayfish Tavern wonder who will be accused next.
-## Punishable by Death
+```
+### Punishable by Death
 After the demon attack, [[Lord Reeve Tarley Winters]] believes that sorcery attracts demons. Three women were recently burned alive for suspected witchcraft. Anything that remotely resembles magic could illicit the harshest of punishments.
 ## Inhabitants
 * [[Lord Reeve Tarley Winters]] - Leader and head of government, Authority
