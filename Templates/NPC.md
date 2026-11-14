@@ -5,7 +5,7 @@ tags:
 source:
 dead: false
 ---
-## Summary
+# Summary
 **Ancestry:** 
 **Occupation:**
 **Age:**
@@ -13,7 +13,7 @@ dead: false
 ## Acting
 https://www.kassoon.com/dnd/npc-generator/
 Tips for acting as this character.
-- **Inspiration:** *Indicate a known character from anywhere, so to help to match behaviour or voice.* Batman, Mickey Mouse
+- **Inspiration:** *Indicate a known character from anywhere, so to help to match behavior or voice.* Batman, Mickey Mouse
 - **Voice:** High pitch, low pitch, direct, kind
 - **Personality:** 
 - **Ideals:** 
@@ -21,7 +21,7 @@ Tips for acting as this character.
 - **Bonds:** 
 
 _Picture, if any_
-# Description
+## Description
 ```
 Description of the particularities of this NPC.
 - Who they is, where they come from?
@@ -33,9 +33,9 @@ Description of the particularities of this NPC.
 
 # Faction
 Does this NPC is part of a faction? What is it role in it?
-# Questlines and Goals
-A brief description of a questline that this NPC is part of, if any.
-*select when it was accomplished. Strikethrough when it is not possible anymore*
+# Quest-lines and Goals
+A brief description of a quest-line that this NPC is part of, if any.
+*select when it was accomplished. Strike-through when it is not possible anymore*
 - [ ] First Goal
 - [ ] Second Goal
 - [ ] Third Goal
