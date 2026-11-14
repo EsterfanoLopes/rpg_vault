@@ -1,4 +1,0 @@
-#faction 
-
-## Objetivos
-- [ ] 
